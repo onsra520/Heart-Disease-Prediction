@@ -1,0 +1,1026 @@
+Age,Sex,Chest Pain Type,Resting Blood Pressure,Serum Cholesterol,Fasting Blood Sugar,Resting Electrocardiographic Results,Maximum Heart Rate Achieved,Exercise Induced Angina,ST depression induced by exercise relative to rest,The slope of the peak exercise ST segment,Number of major vessels (0-4) colored by fluoroscopy,Thallium Test Result,Result
+52,Male,No Pain,125,212,< 120 mg/dl,ST-T Change,168,No Angina,1,Up Slope,2,Normal,No Heart Disease
+53,Male,No Pain,140,203,> 120 mg/dl,Normal,155,Angina,3.1,Down Slope,0,Normal,No Heart Disease
+70,Male,No Pain,145,174,< 120 mg/dl,ST-T Change,125,Angina,2.6,Down Slope,0,Normal,No Heart Disease
+61,Male,No Pain,148,203,< 120 mg/dl,ST-T Change,161,No Angina,0,Up Slope,1,Normal,No Heart Disease
+62,Female,No Pain,138,294,> 120 mg/dl,ST-T Change,106,No Angina,1.9,Flat Slope,3,Reversible Defect,No Heart Disease
+58,Female,No Pain,100,248,< 120 mg/dl,Normal,122,No Angina,1,Flat Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,114,318,< 120 mg/dl,Left Ventricular Hypertrophy,140,No Angina,4.4,Down Slope,3,Fixed Defect,No Heart Disease
+55,Male,No Pain,160,289,< 120 mg/dl,Normal,145,Angina,0.8,Flat Slope,1,Normal,No Heart Disease
+46,Male,No Pain,120,249,< 120 mg/dl,Normal,144,No Angina,0.8,Up Slope,0,Normal,No Heart Disease
+54,Male,No Pain,122,286,< 120 mg/dl,Normal,116,Angina,3.2,Flat Slope,2,Reversible Defect,No Heart Disease
+71,Female,No Pain,112,149,< 120 mg/dl,ST-T Change,125,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+43,Female,No Pain,132,341,> 120 mg/dl,Normal,136,Angina,3,Flat Slope,0,Normal,No Heart Disease
+34,Female,Typical Angina,118,210,< 120 mg/dl,ST-T Change,192,No Angina,0.7,Up Slope,0,Reversible Defect,Heart Disease
+51,Male,No Pain,140,298,< 120 mg/dl,ST-T Change,122,Angina,4.2,Flat Slope,3,Normal,No Heart Disease
+52,Male,No Pain,128,204,> 120 mg/dl,ST-T Change,156,Angina,1,Flat Slope,0,Unknown,No Heart Disease
+34,Female,Typical Angina,118,210,< 120 mg/dl,ST-T Change,192,No Angina,0.7,Up Slope,0,Reversible Defect,Heart Disease
+51,Female,Atypical Angina,140,308,< 120 mg/dl,Normal,142,No Angina,1.5,Up Slope,1,Reversible Defect,Heart Disease
+54,Male,No Pain,124,266,< 120 mg/dl,Normal,109,Angina,2.2,Flat Slope,1,Normal,No Heart Disease
+50,Female,Typical Angina,120,244,< 120 mg/dl,ST-T Change,162,No Angina,1.1,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,Atypical Angina,140,211,> 120 mg/dl,Normal,165,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+60,Male,Atypical Angina,140,185,< 120 mg/dl,Normal,155,No Angina,3,Flat Slope,0,Reversible Defect,No Heart Disease
+67,Female,No Pain,106,223,< 120 mg/dl,ST-T Change,142,No Angina,0.3,Up Slope,2,Reversible Defect,Heart Disease
+45,Male,No Pain,104,208,< 120 mg/dl,Normal,148,Angina,3,Flat Slope,0,Reversible Defect,Heart Disease
+63,Female,Atypical Angina,135,252,< 120 mg/dl,Normal,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+42,Female,Atypical Angina,120,209,< 120 mg/dl,ST-T Change,173,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+61,Female,No Pain,145,307,< 120 mg/dl,Normal,146,Angina,1,Flat Slope,0,Normal,No Heart Disease
+44,Male,Atypical Angina,130,233,< 120 mg/dl,ST-T Change,179,Angina,0.4,Up Slope,0,Reversible Defect,Heart Disease
+58,Female,Typical Angina,136,319,> 120 mg/dl,Normal,152,No Angina,0,Up Slope,2,Reversible Defect,No Heart Disease
+56,Male,Atypical Angina,130,256,> 120 mg/dl,Normal,142,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+55,Female,No Pain,180,327,< 120 mg/dl,Left Ventricular Hypertrophy,117,Angina,3.4,Flat Slope,0,Reversible Defect,No Heart Disease
+44,Male,No Pain,120,169,< 120 mg/dl,ST-T Change,144,Angina,2.8,Down Slope,0,Fixed Defect,No Heart Disease
+50,Female,Typical Angina,120,244,< 120 mg/dl,ST-T Change,162,No Angina,1.1,Up Slope,0,Reversible Defect,Heart Disease
+57,Male,No Pain,130,131,< 120 mg/dl,ST-T Change,115,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+70,Male,Atypical Angina,160,269,< 120 mg/dl,ST-T Change,112,Angina,2.9,Flat Slope,1,Normal,No Heart Disease
+50,Male,Atypical Angina,129,196,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+46,Male,Atypical Angina,150,231,< 120 mg/dl,ST-T Change,147,No Angina,3.6,Flat Slope,0,Reversible Defect,No Heart Disease
+51,Male,Non-Anginal Pain,125,213,< 120 mg/dl,Normal,125,Angina,1.4,Up Slope,1,Reversible Defect,Heart Disease
+59,Male,No Pain,138,271,< 120 mg/dl,Normal,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+64,Male,No Pain,128,263,< 120 mg/dl,ST-T Change,105,Angina,0.2,Flat Slope,1,Normal,Heart Disease
+57,Male,Atypical Angina,128,229,< 120 mg/dl,Normal,150,No Angina,0.4,Flat Slope,1,Normal,No Heart Disease
+65,Female,Atypical Angina,160,360,< 120 mg/dl,Normal,151,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,Atypical Angina,120,258,< 120 mg/dl,Normal,147,No Angina,0.4,Flat Slope,0,Normal,Heart Disease
+61,Female,No Pain,130,330,< 120 mg/dl,Normal,169,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+46,Male,No Pain,120,249,< 120 mg/dl,Normal,144,No Angina,0.8,Up Slope,0,Normal,No Heart Disease
+55,Female,Typical Angina,132,342,< 120 mg/dl,ST-T Change,166,No Angina,1.2,Up Slope,0,Reversible Defect,Heart Disease
+42,Male,No Pain,140,226,< 120 mg/dl,ST-T Change,178,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Typical Angina,135,203,< 120 mg/dl,ST-T Change,132,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+66,Female,No Pain,178,228,> 120 mg/dl,ST-T Change,165,Angina,1,Flat Slope,2,Normal,No Heart Disease
+66,Female,Atypical Angina,146,278,< 120 mg/dl,Normal,152,No Angina,0,Flat Slope,1,Reversible Defect,Heart Disease
+60,Male,No Pain,117,230,> 120 mg/dl,ST-T Change,160,Angina,1.4,Up Slope,2,Normal,No Heart Disease
+58,Female,Non-Anginal Pain,150,283,> 120 mg/dl,Normal,162,No Angina,1,Up Slope,0,Reversible Defect,Heart Disease
+57,Female,No Pain,140,241,< 120 mg/dl,ST-T Change,123,Angina,0.2,Flat Slope,0,Normal,No Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+49,Male,Atypical Angina,120,188,< 120 mg/dl,ST-T Change,139,No Angina,2,Flat Slope,3,Normal,No Heart Disease
+55,Male,No Pain,140,217,< 120 mg/dl,ST-T Change,111,Angina,5.6,Down Slope,0,Normal,No Heart Disease
+55,Male,No Pain,140,217,< 120 mg/dl,ST-T Change,111,Angina,5.6,Down Slope,0,Normal,No Heart Disease
+56,Male,Non-Anginal Pain,120,193,< 120 mg/dl,Normal,162,No Angina,1.9,Flat Slope,0,Normal,Heart Disease
+48,Male,Typical Angina,130,245,< 120 mg/dl,Normal,180,No Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+67,Male,Atypical Angina,152,212,< 120 mg/dl,Normal,150,No Angina,0.8,Flat Slope,0,Normal,No Heart Disease
+57,Male,Typical Angina,154,232,< 120 mg/dl,Normal,164,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+29,Male,Typical Angina,130,204,< 120 mg/dl,Normal,202,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+66,Female,Atypical Angina,146,278,< 120 mg/dl,Normal,152,No Angina,0,Flat Slope,1,Reversible Defect,Heart Disease
+67,Male,No Pain,100,299,< 120 mg/dl,Normal,125,Angina,0.9,Flat Slope,2,Reversible Defect,No Heart Disease
+59,Male,Atypical Angina,150,212,> 120 mg/dl,ST-T Change,157,No Angina,1.6,Up Slope,0,Reversible Defect,Heart Disease
+29,Male,Typical Angina,130,204,< 120 mg/dl,Normal,202,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,Non-Anginal Pain,170,288,< 120 mg/dl,Normal,159,No Angina,0.2,Flat Slope,0,Normal,No Heart Disease
+53,Male,Atypical Angina,130,197,> 120 mg/dl,Normal,152,No Angina,1.2,Down Slope,0,Reversible Defect,Heart Disease
+42,Male,No Pain,136,315,< 120 mg/dl,ST-T Change,125,Angina,1.8,Flat Slope,0,Fixed Defect,No Heart Disease
+37,Female,Atypical Angina,120,215,< 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+62,Female,No Pain,160,164,< 120 mg/dl,Normal,145,No Angina,6.2,Down Slope,3,Normal,No Heart Disease
+59,Male,No Pain,170,326,< 120 mg/dl,Normal,140,Angina,3.4,Down Slope,0,Normal,No Heart Disease
+61,Male,No Pain,140,207,< 120 mg/dl,Normal,138,Angina,1.9,Up Slope,1,Normal,No Heart Disease
+56,Male,No Pain,125,249,> 120 mg/dl,Normal,144,Angina,1.2,Flat Slope,1,Reversible Defect,No Heart Disease
+59,Male,No Pain,140,177,< 120 mg/dl,ST-T Change,162,Angina,0,Up Slope,1,Normal,No Heart Disease
+48,Male,No Pain,130,256,> 120 mg/dl,Normal,150,Angina,0,Up Slope,2,Normal,No Heart Disease
+47,Male,Atypical Angina,138,257,< 120 mg/dl,Normal,156,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+48,Male,Atypical Angina,124,255,> 120 mg/dl,ST-T Change,175,No Angina,0,Up Slope,2,Reversible Defect,Heart Disease
+63,Male,No Pain,140,187,< 120 mg/dl,Normal,144,Angina,4,Up Slope,2,Normal,No Heart Disease
+52,Male,Typical Angina,134,201,< 120 mg/dl,ST-T Change,158,No Angina,0.8,Up Slope,1,Reversible Defect,Heart Disease
+52,Male,Typical Angina,134,201,< 120 mg/dl,ST-T Change,158,No Angina,0.8,Up Slope,1,Reversible Defect,Heart Disease
+50,Male,Atypical Angina,140,233,< 120 mg/dl,ST-T Change,163,No Angina,0.6,Flat Slope,1,Normal,No Heart Disease
+49,Male,Atypical Angina,118,149,< 120 mg/dl,Normal,126,No Angina,0.8,Up Slope,3,Reversible Defect,No Heart Disease
+46,Male,Atypical Angina,150,231,< 120 mg/dl,ST-T Change,147,No Angina,3.6,Flat Slope,0,Reversible Defect,No Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+37,Female,Atypical Angina,120,215,< 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+44,Male,Typical Angina,120,220,< 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,Atypical Angina,140,211,> 120 mg/dl,Normal,165,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Female,No Pain,174,249,< 120 mg/dl,ST-T Change,143,Angina,0,Flat Slope,0,Reversible Defect,No Heart Disease
+62,Female,No Pain,140,268,< 120 mg/dl,Normal,160,No Angina,3.6,Down Slope,2,Reversible Defect,No Heart Disease
+68,Male,No Pain,144,193,> 120 mg/dl,ST-T Change,141,No Angina,3.4,Flat Slope,2,Normal,No Heart Disease
+54,Female,Atypical Angina,108,267,< 120 mg/dl,Normal,167,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+62,Female,No Pain,124,209,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+63,Male,No Pain,140,187,< 120 mg/dl,Normal,144,Angina,4,Up Slope,2,Normal,No Heart Disease
+44,Male,No Pain,120,169,< 120 mg/dl,ST-T Change,144,Angina,2.8,Down Slope,0,Fixed Defect,No Heart Disease
+62,Male,Typical Angina,128,208,> 120 mg/dl,Normal,140,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+45,Female,No Pain,138,236,< 120 mg/dl,Normal,152,Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+57,Female,No Pain,128,303,< 120 mg/dl,Normal,159,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+53,Male,No Pain,123,282,< 120 mg/dl,ST-T Change,95,Angina,2,Flat Slope,2,Normal,No Heart Disease
+65,Male,No Pain,110,248,< 120 mg/dl,Normal,158,No Angina,0.6,Up Slope,2,Fixed Defect,No Heart Disease
+76,Female,Atypical Angina,140,197,< 120 mg/dl,Left Ventricular Hypertrophy,116,No Angina,1.1,Flat Slope,0,Reversible Defect,Heart Disease
+43,Female,Atypical Angina,122,213,< 120 mg/dl,ST-T Change,165,No Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+57,Male,Atypical Angina,150,126,> 120 mg/dl,ST-T Change,173,No Angina,0.2,Up Slope,1,Normal,Heart Disease
+54,Male,Typical Angina,108,309,< 120 mg/dl,ST-T Change,156,No Angina,0,Up Slope,0,Normal,Heart Disease
+47,Male,Atypical Angina,138,257,< 120 mg/dl,Normal,156,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,Non-Anginal Pain,118,186,< 120 mg/dl,Normal,190,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+47,Male,No Pain,110,275,< 120 mg/dl,Normal,118,Angina,1,Flat Slope,1,Reversible Defect,No Heart Disease
+51,Male,No Pain,140,299,< 120 mg/dl,ST-T Change,173,Angina,1.6,Up Slope,0,Normal,No Heart Disease
+62,Male,Typical Angina,120,281,< 120 mg/dl,Normal,103,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+40,Male,No Pain,152,223,< 120 mg/dl,ST-T Change,181,No Angina,0,Up Slope,0,Normal,No Heart Disease
+54,Male,No Pain,110,206,< 120 mg/dl,Normal,108,Angina,0,Flat Slope,1,Reversible Defect,No Heart Disease
+44,Male,No Pain,110,197,< 120 mg/dl,Normal,177,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+53,Male,No Pain,142,226,< 120 mg/dl,Normal,111,Angina,0,Up Slope,0,Normal,Heart Disease
+48,Male,No Pain,130,256,> 120 mg/dl,Normal,150,Angina,0,Up Slope,2,Normal,No Heart Disease
+57,Male,No Pain,110,335,< 120 mg/dl,ST-T Change,143,Angina,3,Flat Slope,1,Normal,No Heart Disease
+59,Male,Atypical Angina,126,218,> 120 mg/dl,ST-T Change,134,No Angina,2.2,Flat Slope,1,Fixed Defect,No Heart Disease
+61,Female,No Pain,145,307,< 120 mg/dl,Normal,146,Angina,1,Flat Slope,0,Normal,No Heart Disease
+63,Male,No Pain,130,254,< 120 mg/dl,Normal,147,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+43,Male,No Pain,120,177,< 120 mg/dl,Normal,120,Angina,2.5,Flat Slope,0,Normal,No Heart Disease
+29,Male,Typical Angina,130,204,< 120 mg/dl,Normal,202,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+42,Male,Typical Angina,120,295,< 120 mg/dl,ST-T Change,162,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,Typical Angina,108,309,< 120 mg/dl,ST-T Change,156,No Angina,0,Up Slope,0,Normal,Heart Disease
+44,Male,No Pain,120,169,< 120 mg/dl,ST-T Change,144,Angina,2.8,Down Slope,0,Fixed Defect,No Heart Disease
+60,Male,No Pain,145,282,< 120 mg/dl,Normal,142,Angina,2.8,Flat Slope,2,Normal,No Heart Disease
+65,Female,Atypical Angina,140,417,> 120 mg/dl,Normal,157,No Angina,0.8,Up Slope,1,Reversible Defect,Heart Disease
+61,Male,No Pain,120,260,< 120 mg/dl,ST-T Change,140,Angina,3.6,Flat Slope,1,Normal,No Heart Disease
+60,Female,Non-Anginal Pain,150,240,< 120 mg/dl,ST-T Change,171,No Angina,0.9,Up Slope,0,Reversible Defect,Heart Disease
+66,Male,No Pain,120,302,< 120 mg/dl,Normal,151,No Angina,0.4,Flat Slope,0,Reversible Defect,Heart Disease
+53,Male,Atypical Angina,130,197,> 120 mg/dl,Normal,152,No Angina,1.2,Down Slope,0,Reversible Defect,Heart Disease
+52,Male,Atypical Angina,138,223,< 120 mg/dl,ST-T Change,169,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+57,Male,No Pain,140,192,< 120 mg/dl,ST-T Change,148,No Angina,0.4,Flat Slope,0,Fixed Defect,Heart Disease
+60,Female,Non-Anginal Pain,150,240,< 120 mg/dl,ST-T Change,171,No Angina,0.9,Up Slope,0,Reversible Defect,Heart Disease
+51,Female,Atypical Angina,130,256,< 120 mg/dl,Normal,149,No Angina,0.5,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Typical Angina,135,203,< 120 mg/dl,ST-T Change,132,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+50,Male,Atypical Angina,129,196,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,Typical Angina,108,309,< 120 mg/dl,ST-T Change,156,No Angina,0,Up Slope,0,Normal,Heart Disease
+58,Female,No Pain,170,225,> 120 mg/dl,Normal,146,Angina,2.8,Flat Slope,2,Fixed Defect,No Heart Disease
+55,Female,Typical Angina,132,342,< 120 mg/dl,ST-T Change,166,No Angina,1.2,Up Slope,0,Reversible Defect,Heart Disease
+64,Female,No Pain,180,325,< 120 mg/dl,ST-T Change,154,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+47,Male,Atypical Angina,138,257,< 120 mg/dl,Normal,156,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Typical Angina,110,235,< 120 mg/dl,ST-T Change,153,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+57,Male,No Pain,152,274,< 120 mg/dl,ST-T Change,88,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+63,Female,No Pain,124,197,< 120 mg/dl,ST-T Change,136,Angina,0,Flat Slope,0,Reversible Defect,No Heart Disease
+61,Male,Non-Anginal Pain,134,234,< 120 mg/dl,ST-T Change,145,No Angina,2.6,Flat Slope,2,Reversible Defect,No Heart Disease
+34,Male,Non-Anginal Pain,118,182,< 120 mg/dl,Normal,174,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+47,Male,No Pain,112,204,< 120 mg/dl,ST-T Change,143,No Angina,0.1,Up Slope,0,Reversible Defect,Heart Disease
+40,Male,No Pain,110,167,< 120 mg/dl,Normal,114,Angina,2,Flat Slope,0,Normal,No Heart Disease
+51,Female,Atypical Angina,120,295,< 120 mg/dl,Normal,157,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,No Pain,110,172,< 120 mg/dl,Normal,158,No Angina,0,Up Slope,0,Normal,No Heart Disease
+52,Male,Non-Anginal Pain,152,298,> 120 mg/dl,ST-T Change,178,No Angina,1.2,Flat Slope,0,Normal,Heart Disease
+39,Male,Atypical Angina,140,321,< 120 mg/dl,Normal,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,114,318,< 120 mg/dl,Left Ventricular Hypertrophy,140,No Angina,4.4,Down Slope,3,Fixed Defect,No Heart Disease
+54,Male,Typical Angina,192,283,< 120 mg/dl,Normal,195,No Angina,0,Up Slope,1,Normal,No Heart Disease
+58,Male,No Pain,125,300,< 120 mg/dl,Normal,171,No Angina,0,Up Slope,2,Normal,No Heart Disease
+54,Male,Atypical Angina,120,258,< 120 mg/dl,Normal,147,No Angina,0.4,Flat Slope,0,Normal,Heart Disease
+63,Male,No Pain,130,330,> 120 mg/dl,Normal,132,Angina,1.8,Up Slope,3,Normal,No Heart Disease
+54,Male,Typical Angina,108,309,< 120 mg/dl,ST-T Change,156,No Angina,0,Up Slope,0,Normal,Heart Disease
+40,Male,Non-Anginal Pain,140,199,< 120 mg/dl,ST-T Change,178,Angina,1.4,Up Slope,0,Normal,Heart Disease
+54,Male,Atypical Angina,120,258,< 120 mg/dl,Normal,147,No Angina,0.4,Flat Slope,0,Normal,Heart Disease
+67,Female,Atypical Angina,115,564,< 120 mg/dl,Normal,160,No Angina,1.6,Flat Slope,0,Normal,Heart Disease
+41,Male,Typical Angina,120,157,< 120 mg/dl,ST-T Change,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+77,Male,No Pain,125,304,< 120 mg/dl,Normal,162,Angina,0,Up Slope,3,Reversible Defect,No Heart Disease
+51,Male,Atypical Angina,100,222,< 120 mg/dl,ST-T Change,143,Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+77,Male,No Pain,125,304,< 120 mg/dl,Normal,162,Angina,0,Up Slope,3,Reversible Defect,No Heart Disease
+48,Male,No Pain,124,274,< 120 mg/dl,Normal,166,No Angina,0.5,Flat Slope,0,Normal,No Heart Disease
+56,Male,No Pain,125,249,> 120 mg/dl,Normal,144,Angina,1.2,Flat Slope,1,Reversible Defect,No Heart Disease
+59,Male,No Pain,170,326,< 120 mg/dl,Normal,140,Angina,3.4,Down Slope,0,Normal,No Heart Disease
+56,Male,No Pain,132,184,< 120 mg/dl,Normal,105,Angina,2.1,Flat Slope,1,Fixed Defect,No Heart Disease
+57,Female,No Pain,120,354,< 120 mg/dl,ST-T Change,163,Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+43,Male,Atypical Angina,130,315,< 120 mg/dl,ST-T Change,162,No Angina,1.9,Up Slope,1,Reversible Defect,Heart Disease
+45,Female,Typical Angina,112,160,< 120 mg/dl,ST-T Change,138,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,150,247,< 120 mg/dl,ST-T Change,171,No Angina,1.5,Up Slope,0,Reversible Defect,Heart Disease
+56,Male,No Pain,130,283,> 120 mg/dl,Normal,103,Angina,1.6,Down Slope,0,Normal,No Heart Disease
+56,Male,Typical Angina,120,240,< 120 mg/dl,ST-T Change,169,No Angina,0,Down Slope,0,Reversible Defect,Heart Disease
+39,Female,Atypical Angina,94,199,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,No Pain,110,239,< 120 mg/dl,ST-T Change,126,Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+56,Female,No Pain,200,288,> 120 mg/dl,Normal,133,Angina,4,Down Slope,2,Normal,No Heart Disease
+56,Male,No Pain,130,283,> 120 mg/dl,Normal,103,Angina,1.6,Down Slope,0,Normal,No Heart Disease
+64,Male,No Pain,120,246,< 120 mg/dl,Normal,96,Angina,2.2,Down Slope,1,Reversible Defect,No Heart Disease
+44,Male,No Pain,110,197,< 120 mg/dl,Normal,177,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+56,Female,No Pain,134,409,< 120 mg/dl,Normal,150,Angina,1.9,Flat Slope,2,Normal,No Heart Disease
+63,Male,No Pain,140,187,< 120 mg/dl,Normal,144,Angina,4,Up Slope,2,Normal,No Heart Disease
+64,Male,Non-Anginal Pain,110,211,< 120 mg/dl,Normal,144,Angina,1.8,Flat Slope,0,Reversible Defect,Heart Disease
+60,Male,No Pain,140,293,< 120 mg/dl,Normal,170,No Angina,1.2,Flat Slope,2,Normal,No Heart Disease
+42,Male,Atypical Angina,130,180,< 120 mg/dl,ST-T Change,150,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+45,Male,Typical Angina,128,308,< 120 mg/dl,Normal,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+57,Male,No Pain,165,289,> 120 mg/dl,Normal,124,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+40,Male,No Pain,110,167,< 120 mg/dl,Normal,114,Angina,2,Flat Slope,0,Normal,No Heart Disease
+56,Male,No Pain,125,249,> 120 mg/dl,Normal,144,Angina,1.2,Flat Slope,1,Reversible Defect,No Heart Disease
+63,Male,No Pain,130,254,< 120 mg/dl,Normal,147,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+64,Male,Atypical Angina,125,309,< 120 mg/dl,ST-T Change,131,Angina,1.8,Flat Slope,0,Normal,No Heart Disease
+41,Male,Atypical Angina,112,250,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+56,Male,Typical Angina,130,221,< 120 mg/dl,Normal,163,No Angina,0,Up Slope,0,Normal,Heart Disease
+67,Female,Atypical Angina,115,564,< 120 mg/dl,Normal,160,No Angina,1.6,Flat Slope,0,Normal,Heart Disease
+69,Male,Non-Anginal Pain,160,234,> 120 mg/dl,Normal,131,No Angina,0.1,Flat Slope,1,Reversible Defect,Heart Disease
+67,Male,No Pain,160,286,< 120 mg/dl,Normal,108,Angina,1.5,Flat Slope,3,Reversible Defect,No Heart Disease
+59,Male,Atypical Angina,150,212,> 120 mg/dl,ST-T Change,157,No Angina,1.6,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,100,234,< 120 mg/dl,ST-T Change,156,No Angina,0.1,Up Slope,1,Normal,No Heart Disease
+45,Male,No Pain,115,260,< 120 mg/dl,Normal,185,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+60,Female,Atypical Angina,102,318,< 120 mg/dl,ST-T Change,160,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+50,Male,No Pain,144,200,< 120 mg/dl,Normal,126,Angina,0.9,Flat Slope,0,Normal,No Heart Disease
+62,Female,No Pain,124,209,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+34,Male,Non-Anginal Pain,118,182,< 120 mg/dl,Normal,174,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,Non-Anginal Pain,152,298,> 120 mg/dl,ST-T Change,178,No Angina,1.2,Flat Slope,0,Normal,Heart Disease
+64,Male,Non-Anginal Pain,170,227,< 120 mg/dl,Normal,155,No Angina,0.6,Flat Slope,0,Normal,Heart Disease
+66,Female,Atypical Angina,146,278,< 120 mg/dl,Normal,152,No Angina,0,Flat Slope,1,Reversible Defect,Heart Disease
+42,Male,Non-Anginal Pain,148,244,< 120 mg/dl,Normal,178,No Angina,0.8,Up Slope,2,Reversible Defect,Heart Disease
+59,Male,Atypical Angina,126,218,> 120 mg/dl,ST-T Change,134,No Angina,2.2,Flat Slope,1,Fixed Defect,No Heart Disease
+41,Male,Atypical Angina,112,250,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+62,Male,Typical Angina,120,281,< 120 mg/dl,Normal,103,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+42,Male,Atypical Angina,120,240,> 120 mg/dl,ST-T Change,194,No Angina,0.8,Down Slope,0,Normal,Heart Disease
+67,Male,No Pain,100,299,< 120 mg/dl,Normal,125,Angina,0.9,Flat Slope,2,Reversible Defect,No Heart Disease
+50,Male,No Pain,150,243,< 120 mg/dl,Normal,128,No Angina,2.6,Flat Slope,0,Normal,No Heart Disease
+43,Male,Atypical Angina,130,315,< 120 mg/dl,ST-T Change,162,No Angina,1.9,Up Slope,1,Reversible Defect,Heart Disease
+45,Male,Typical Angina,128,308,< 120 mg/dl,Normal,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+49,Male,Typical Angina,130,266,< 120 mg/dl,ST-T Change,171,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+65,Male,No Pain,135,254,< 120 mg/dl,Normal,127,No Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+41,Male,Typical Angina,120,157,< 120 mg/dl,ST-T Change,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+46,Male,No Pain,140,311,< 120 mg/dl,ST-T Change,120,Angina,1.8,Flat Slope,2,Normal,No Heart Disease
+54,Male,No Pain,122,286,< 120 mg/dl,Normal,116,Angina,3.2,Flat Slope,2,Reversible Defect,No Heart Disease
+57,Female,Typical Angina,130,236,< 120 mg/dl,Normal,174,No Angina,0,Flat Slope,1,Reversible Defect,No Heart Disease
+63,Male,No Pain,130,254,< 120 mg/dl,Normal,147,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+64,Male,Non-Anginal Pain,110,211,< 120 mg/dl,Normal,144,Angina,1.8,Flat Slope,0,Reversible Defect,Heart Disease
+39,Female,Atypical Angina,94,199,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+51,Male,No Pain,140,261,< 120 mg/dl,Normal,186,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,Atypical Angina,150,232,< 120 mg/dl,Normal,165,No Angina,1.6,Up Slope,0,Normal,Heart Disease
+49,Male,Atypical Angina,118,149,< 120 mg/dl,Normal,126,No Angina,0.8,Up Slope,3,Reversible Defect,No Heart Disease
+44,Female,Atypical Angina,118,242,< 120 mg/dl,ST-T Change,149,No Angina,0.3,Flat Slope,1,Reversible Defect,Heart Disease
+52,Male,Typical Angina,128,205,> 120 mg/dl,ST-T Change,184,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+66,Female,No Pain,178,228,> 120 mg/dl,ST-T Change,165,Angina,1,Flat Slope,2,Normal,No Heart Disease
+58,Male,No Pain,125,300,< 120 mg/dl,Normal,171,No Angina,0,Up Slope,2,Normal,No Heart Disease
+56,Male,Typical Angina,120,236,< 120 mg/dl,ST-T Change,178,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+60,Male,No Pain,125,258,< 120 mg/dl,Normal,141,Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+41,Female,Typical Angina,126,306,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+49,Female,No Pain,130,269,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+64,Male,Non-Anginal Pain,170,227,< 120 mg/dl,Normal,155,No Angina,0.6,Flat Slope,0,Normal,Heart Disease
+49,Male,Atypical Angina,118,149,< 120 mg/dl,Normal,126,No Angina,0.8,Up Slope,3,Reversible Defect,No Heart Disease
+57,Male,Typical Angina,124,261,< 120 mg/dl,ST-T Change,141,No Angina,0.3,Up Slope,0,Normal,No Heart Disease
+60,Male,No Pain,117,230,> 120 mg/dl,ST-T Change,160,Angina,1.4,Up Slope,2,Normal,No Heart Disease
+62,Female,No Pain,150,244,< 120 mg/dl,ST-T Change,154,Angina,1.4,Flat Slope,0,Reversible Defect,No Heart Disease
+54,Female,Typical Angina,132,288,> 120 mg/dl,Normal,159,Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+67,Male,Atypical Angina,152,212,< 120 mg/dl,Normal,150,No Angina,0.8,Flat Slope,0,Normal,No Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+60,Male,Atypical Angina,140,185,< 120 mg/dl,Normal,155,No Angina,3,Flat Slope,0,Reversible Defect,No Heart Disease
+51,Male,Atypical Angina,125,245,> 120 mg/dl,Normal,166,No Angina,2.4,Flat Slope,0,Reversible Defect,Heart Disease
+44,Male,Typical Angina,130,219,< 120 mg/dl,Normal,188,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,Typical Angina,192,283,< 120 mg/dl,Normal,195,No Angina,0,Up Slope,1,Normal,No Heart Disease
+46,Male,No Pain,140,311,< 120 mg/dl,ST-T Change,120,Angina,1.8,Flat Slope,2,Normal,No Heart Disease
+39,Female,Atypical Angina,138,220,< 120 mg/dl,ST-T Change,152,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+42,Male,Atypical Angina,130,180,< 120 mg/dl,ST-T Change,150,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+47,Male,No Pain,110,275,< 120 mg/dl,Normal,118,Angina,1,Flat Slope,1,Reversible Defect,No Heart Disease
+45,Female,Typical Angina,112,160,< 120 mg/dl,ST-T Change,138,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+55,Male,No Pain,132,353,< 120 mg/dl,ST-T Change,132,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+57,Male,No Pain,165,289,> 120 mg/dl,Normal,124,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+35,Male,No Pain,120,198,< 120 mg/dl,ST-T Change,130,Angina,1.6,Flat Slope,0,Normal,No Heart Disease
+62,Female,No Pain,140,394,< 120 mg/dl,Normal,157,No Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+35,Female,No Pain,138,183,< 120 mg/dl,ST-T Change,182,No Angina,1.4,Up Slope,0,Reversible Defect,Heart Disease
+64,Female,No Pain,180,325,< 120 mg/dl,ST-T Change,154,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+38,Male,Non-Anginal Pain,120,231,< 120 mg/dl,ST-T Change,182,Angina,3.8,Flat Slope,0,Normal,No Heart Disease
+66,Male,No Pain,120,302,< 120 mg/dl,Normal,151,No Angina,0.4,Flat Slope,0,Reversible Defect,Heart Disease
+44,Male,Atypical Angina,120,226,< 120 mg/dl,ST-T Change,169,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,Atypical Angina,150,232,< 120 mg/dl,Normal,165,No Angina,1.6,Up Slope,0,Normal,Heart Disease
+48,Male,No Pain,122,222,< 120 mg/dl,Normal,186,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+55,Female,Typical Angina,132,342,< 120 mg/dl,ST-T Change,166,No Angina,1.2,Up Slope,0,Reversible Defect,Heart Disease
+58,Female,No Pain,170,225,> 120 mg/dl,Normal,146,Angina,2.8,Flat Slope,2,Fixed Defect,No Heart Disease
+45,Male,No Pain,104,208,< 120 mg/dl,Normal,148,Angina,3,Flat Slope,0,Reversible Defect,Heart Disease
+53,Male,No Pain,123,282,< 120 mg/dl,ST-T Change,95,Angina,2,Flat Slope,2,Normal,No Heart Disease
+67,Male,No Pain,120,237,< 120 mg/dl,ST-T Change,71,No Angina,1,Flat Slope,0,Reversible Defect,No Heart Disease
+58,Male,Atypical Angina,132,224,< 120 mg/dl,Normal,173,No Angina,3.2,Up Slope,2,Normal,No Heart Disease
+71,Female,Atypical Angina,110,265,> 120 mg/dl,Normal,130,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+43,Male,No Pain,110,211,< 120 mg/dl,ST-T Change,161,No Angina,0,Up Slope,0,Normal,Heart Disease
+44,Male,Typical Angina,120,263,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,0,Normal,Heart Disease
+39,Female,Atypical Angina,138,220,< 120 mg/dl,ST-T Change,152,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+54,Male,No Pain,110,206,< 120 mg/dl,Normal,108,Angina,0,Flat Slope,1,Reversible Defect,No Heart Disease
+66,Male,No Pain,160,228,< 120 mg/dl,Normal,138,No Angina,2.3,Up Slope,0,Fixed Defect,Heart Disease
+56,Male,No Pain,130,283,> 120 mg/dl,Normal,103,Angina,1.6,Down Slope,0,Normal,No Heart Disease
+57,Male,No Pain,132,207,< 120 mg/dl,ST-T Change,168,Angina,0,Up Slope,0,Normal,Heart Disease
+44,Male,Typical Angina,130,219,< 120 mg/dl,Normal,188,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+55,Male,No Pain,160,289,< 120 mg/dl,Normal,145,Angina,0.8,Flat Slope,1,Normal,No Heart Disease
+41,Female,Typical Angina,105,198,< 120 mg/dl,ST-T Change,168,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+45,Female,Typical Angina,130,234,< 120 mg/dl,Normal,175,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+35,Male,Typical Angina,122,192,< 120 mg/dl,ST-T Change,174,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Female,Typical Angina,130,204,< 120 mg/dl,Normal,172,No Angina,1.4,Up Slope,0,Reversible Defect,Heart Disease
+64,Male,Non-Anginal Pain,110,211,< 120 mg/dl,Normal,144,Angina,1.8,Flat Slope,0,Reversible Defect,Heart Disease
+58,Male,Atypical Angina,132,224,< 120 mg/dl,Normal,173,No Angina,3.2,Up Slope,2,Normal,No Heart Disease
+71,Female,Atypical Angina,110,265,> 120 mg/dl,Normal,130,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+64,Female,Atypical Angina,140,313,< 120 mg/dl,ST-T Change,133,No Angina,0.2,Up Slope,0,Normal,Heart Disease
+71,Female,Typical Angina,160,302,< 120 mg/dl,ST-T Change,162,No Angina,0.4,Up Slope,2,Reversible Defect,Heart Disease
+58,Female,Atypical Angina,120,340,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+40,Male,No Pain,152,223,< 120 mg/dl,ST-T Change,181,No Angina,0,Up Slope,0,Normal,No Heart Disease
+52,Male,Atypical Angina,138,223,< 120 mg/dl,ST-T Change,169,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+58,Male,No Pain,128,259,< 120 mg/dl,Normal,130,Angina,3,Flat Slope,2,Normal,No Heart Disease
+61,Male,Atypical Angina,150,243,> 120 mg/dl,ST-T Change,137,Angina,1,Flat Slope,0,Reversible Defect,Heart Disease
+59,Male,Atypical Angina,150,212,> 120 mg/dl,ST-T Change,157,No Angina,1.6,Up Slope,0,Reversible Defect,Heart Disease
+56,Female,No Pain,200,288,> 120 mg/dl,Normal,133,Angina,4,Down Slope,2,Normal,No Heart Disease
+67,Male,No Pain,100,299,< 120 mg/dl,Normal,125,Angina,0.9,Flat Slope,2,Reversible Defect,No Heart Disease
+67,Male,No Pain,120,237,< 120 mg/dl,ST-T Change,71,No Angina,1,Flat Slope,0,Reversible Defect,No Heart Disease
+58,Male,No Pain,150,270,< 120 mg/dl,Normal,111,Angina,0.8,Up Slope,0,Normal,No Heart Disease
+35,Male,Typical Angina,122,192,< 120 mg/dl,ST-T Change,174,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,Typical Angina,120,325,< 120 mg/dl,ST-T Change,172,No Angina,0.2,Up Slope,0,Reversible Defect,Heart Disease
+46,Female,Typical Angina,105,204,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+51,Male,Atypical Angina,94,227,< 120 mg/dl,ST-T Change,154,Angina,0,Up Slope,1,Normal,Heart Disease
+55,Female,Typical Angina,132,342,< 120 mg/dl,ST-T Change,166,No Angina,1.2,Up Slope,0,Reversible Defect,Heart Disease
+60,Male,No Pain,145,282,< 120 mg/dl,Normal,142,Angina,2.8,Flat Slope,2,Normal,No Heart Disease
+52,Female,Atypical Angina,136,196,< 120 mg/dl,Normal,169,No Angina,0.1,Flat Slope,0,Reversible Defect,Heart Disease
+62,Male,No Pain,120,267,< 120 mg/dl,ST-T Change,99,Angina,1.8,Flat Slope,2,Normal,No Heart Disease
+44,Female,Atypical Angina,118,242,< 120 mg/dl,ST-T Change,149,No Angina,0.3,Flat Slope,1,Reversible Defect,Heart Disease
+44,Male,Typical Angina,120,220,< 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,Atypical Angina,126,218,> 120 mg/dl,ST-T Change,134,No Angina,2.2,Flat Slope,1,Fixed Defect,No Heart Disease
+56,Female,Typical Angina,140,294,< 120 mg/dl,Normal,153,No Angina,1.3,Flat Slope,0,Reversible Defect,Heart Disease
+61,Male,No Pain,120,260,< 120 mg/dl,ST-T Change,140,Angina,3.6,Flat Slope,1,Normal,No Heart Disease
+48,Male,No Pain,130,256,> 120 mg/dl,Normal,150,Angina,0,Up Slope,2,Normal,No Heart Disease
+70,Male,Atypical Angina,160,269,< 120 mg/dl,ST-T Change,112,Angina,2.9,Flat Slope,1,Normal,No Heart Disease
+74,Female,Typical Angina,120,269,< 120 mg/dl,Normal,121,Angina,0.2,Up Slope,1,Reversible Defect,Heart Disease
+40,Male,Non-Anginal Pain,140,199,< 120 mg/dl,ST-T Change,178,Angina,1.4,Up Slope,0,Normal,Heart Disease
+42,Male,Non-Anginal Pain,148,244,< 120 mg/dl,Normal,178,No Angina,0.8,Up Slope,2,Reversible Defect,Heart Disease
+64,Female,Atypical Angina,140,313,< 120 mg/dl,ST-T Change,133,No Angina,0.2,Up Slope,0,Normal,Heart Disease
+63,Female,Atypical Angina,135,252,< 120 mg/dl,Normal,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,No Pain,140,177,< 120 mg/dl,ST-T Change,162,Angina,0,Up Slope,1,Normal,No Heart Disease
+53,Female,Atypical Angina,128,216,< 120 mg/dl,Normal,115,No Angina,0,Up Slope,0,Unknown,Heart Disease
+53,Female,No Pain,130,264,< 120 mg/dl,Normal,143,No Angina,0.4,Flat Slope,0,Reversible Defect,Heart Disease
+48,Female,Atypical Angina,130,275,< 120 mg/dl,ST-T Change,139,No Angina,0.2,Up Slope,0,Reversible Defect,Heart Disease
+45,Male,No Pain,142,309,< 120 mg/dl,Normal,147,Angina,0,Flat Slope,3,Normal,No Heart Disease
+66,Male,Typical Angina,160,246,< 120 mg/dl,ST-T Change,120,Angina,0,Flat Slope,3,Fixed Defect,No Heart Disease
+48,Male,Typical Angina,130,245,< 120 mg/dl,Normal,180,No Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+56,Female,Typical Angina,140,294,< 120 mg/dl,Normal,153,No Angina,1.3,Flat Slope,0,Reversible Defect,Heart Disease
+54,Male,Typical Angina,192,283,< 120 mg/dl,Normal,195,No Angina,0,Up Slope,1,Normal,No Heart Disease
+57,Male,No Pain,150,276,< 120 mg/dl,Normal,112,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+70,Male,No Pain,130,322,< 120 mg/dl,Normal,109,No Angina,2.4,Flat Slope,3,Reversible Defect,No Heart Disease
+53,Female,Atypical Angina,128,216,< 120 mg/dl,Normal,115,No Angina,0,Up Slope,0,Unknown,Heart Disease
+37,Female,Atypical Angina,120,215,< 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+63,Female,No Pain,108,269,< 120 mg/dl,ST-T Change,169,Angina,1.8,Flat Slope,2,Reversible Defect,No Heart Disease
+37,Male,Atypical Angina,130,250,< 120 mg/dl,ST-T Change,187,No Angina,3.5,Down Slope,0,Reversible Defect,Heart Disease
+54,Female,Atypical Angina,110,214,< 120 mg/dl,ST-T Change,158,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+60,Male,No Pain,130,206,< 120 mg/dl,Normal,132,Angina,2.4,Flat Slope,2,Normal,No Heart Disease
+58,Male,No Pain,150,270,< 120 mg/dl,Normal,111,Angina,0.8,Up Slope,0,Normal,No Heart Disease
+57,Male,Atypical Angina,150,126,> 120 mg/dl,ST-T Change,173,No Angina,0.2,Up Slope,1,Normal,Heart Disease
+54,Male,Atypical Angina,125,273,< 120 mg/dl,Normal,152,No Angina,0.5,Down Slope,1,Reversible Defect,Heart Disease
+56,Male,Atypical Angina,130,256,> 120 mg/dl,Normal,142,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+60,Male,No Pain,130,253,< 120 mg/dl,ST-T Change,144,Angina,1.4,Up Slope,1,Normal,No Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+44,Male,Atypical Angina,120,226,< 120 mg/dl,ST-T Change,169,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+65,Female,Atypical Angina,155,269,< 120 mg/dl,ST-T Change,148,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,Atypical Angina,172,199,> 120 mg/dl,ST-T Change,162,No Angina,0.5,Up Slope,0,Normal,Heart Disease
+41,Male,Typical Angina,120,157,< 120 mg/dl,ST-T Change,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+66,Male,Typical Angina,160,246,< 120 mg/dl,ST-T Change,120,Angina,0,Flat Slope,3,Fixed Defect,No Heart Disease
+50,Male,No Pain,150,243,< 120 mg/dl,Normal,128,No Angina,2.6,Flat Slope,0,Normal,No Heart Disease
+54,Female,Atypical Angina,108,267,< 120 mg/dl,Normal,167,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,132,247,> 120 mg/dl,Normal,143,Angina,0.1,Flat Slope,4,Normal,No Heart Disease
+62,Female,Atypical Angina,130,263,< 120 mg/dl,ST-T Change,97,No Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+66,Male,No Pain,120,302,< 120 mg/dl,Normal,151,No Angina,0.4,Flat Slope,0,Reversible Defect,Heart Disease
+50,Male,No Pain,144,200,< 120 mg/dl,Normal,126,Angina,0.9,Flat Slope,0,Normal,No Heart Disease
+57,Male,No Pain,110,335,< 120 mg/dl,ST-T Change,143,Angina,3,Flat Slope,1,Normal,No Heart Disease
+57,Male,No Pain,110,201,< 120 mg/dl,ST-T Change,126,Angina,1.5,Flat Slope,0,Fixed Defect,Heart Disease
+57,Male,Typical Angina,124,261,< 120 mg/dl,ST-T Change,141,No Angina,0.3,Up Slope,0,Normal,No Heart Disease
+46,Female,No Pain,138,243,< 120 mg/dl,Normal,152,Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+59,Male,No Pain,164,176,> 120 mg/dl,Normal,90,No Angina,1,Flat Slope,2,Fixed Defect,No Heart Disease
+67,Male,No Pain,160,286,< 120 mg/dl,Normal,108,Angina,1.5,Flat Slope,3,Reversible Defect,No Heart Disease
+59,Male,Non-Anginal Pain,134,204,< 120 mg/dl,ST-T Change,162,No Angina,0.8,Up Slope,2,Reversible Defect,No Heart Disease
+53,Female,Atypical Angina,128,216,< 120 mg/dl,Normal,115,No Angina,0,Up Slope,0,Unknown,Heart Disease
+48,Male,No Pain,122,222,< 120 mg/dl,Normal,186,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+62,Male,Atypical Angina,130,231,< 120 mg/dl,ST-T Change,146,No Angina,1.8,Flat Slope,3,Normal,Heart Disease
+43,Female,Atypical Angina,122,213,< 120 mg/dl,ST-T Change,165,No Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+53,Male,Atypical Angina,130,246,> 120 mg/dl,Normal,173,No Angina,0,Up Slope,3,Reversible Defect,Heart Disease
+57,Female,Typical Angina,130,236,< 120 mg/dl,Normal,174,No Angina,0,Flat Slope,1,Reversible Defect,No Heart Disease
+53,Male,Atypical Angina,130,246,> 120 mg/dl,Normal,173,No Angina,0,Up Slope,3,Reversible Defect,Heart Disease
+58,Male,Atypical Angina,112,230,< 120 mg/dl,Normal,165,No Angina,2.5,Flat Slope,1,Normal,No Heart Disease
+48,Male,Typical Angina,110,229,< 120 mg/dl,ST-T Change,168,No Angina,1,Down Slope,0,Normal,No Heart Disease
+58,Male,Atypical Angina,105,240,< 120 mg/dl,Normal,154,Angina,0.6,Flat Slope,0,Normal,Heart Disease
+51,Male,Atypical Angina,110,175,< 120 mg/dl,ST-T Change,123,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+43,Female,No Pain,132,341,> 120 mg/dl,Normal,136,Angina,3,Flat Slope,0,Normal,No Heart Disease
+55,Male,No Pain,132,353,< 120 mg/dl,ST-T Change,132,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+54,Female,Atypical Angina,110,214,< 120 mg/dl,ST-T Change,158,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+58,Male,Typical Angina,120,284,< 120 mg/dl,Normal,160,No Angina,1.8,Flat Slope,0,Reversible Defect,No Heart Disease
+46,Female,Atypical Angina,142,177,< 120 mg/dl,Normal,160,Angina,1.4,Down Slope,0,Reversible Defect,Heart Disease
+66,Male,No Pain,160,228,< 120 mg/dl,Normal,138,No Angina,2.3,Up Slope,0,Fixed Defect,Heart Disease
+59,Male,Typical Angina,140,221,< 120 mg/dl,ST-T Change,164,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+64,Female,No Pain,130,303,< 120 mg/dl,ST-T Change,122,No Angina,2,Flat Slope,2,Reversible Defect,Heart Disease
+67,Male,No Pain,120,237,< 120 mg/dl,ST-T Change,71,No Angina,1,Flat Slope,0,Reversible Defect,No Heart Disease
+52,Male,Non-Anginal Pain,118,186,< 120 mg/dl,Normal,190,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+58,Male,No Pain,146,218,< 120 mg/dl,ST-T Change,105,No Angina,2,Flat Slope,1,Normal,No Heart Disease
+58,Male,Atypical Angina,132,224,< 120 mg/dl,Normal,173,No Angina,3.2,Up Slope,2,Normal,No Heart Disease
+59,Male,No Pain,110,239,< 120 mg/dl,Normal,142,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+58,Male,No Pain,150,270,< 120 mg/dl,Normal,111,Angina,0.8,Up Slope,0,Normal,No Heart Disease
+35,Male,No Pain,126,282,< 120 mg/dl,Normal,156,Angina,0,Up Slope,0,Normal,No Heart Disease
+51,Male,Atypical Angina,110,175,< 120 mg/dl,ST-T Change,123,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+42,Female,Atypical Angina,120,209,< 120 mg/dl,ST-T Change,173,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+77,Male,No Pain,125,304,< 120 mg/dl,Normal,162,Angina,0,Up Slope,3,Reversible Defect,No Heart Disease
+64,Male,No Pain,120,246,< 120 mg/dl,Normal,96,Angina,2.2,Down Slope,1,Reversible Defect,No Heart Disease
+63,Male,Non-Anginal Pain,145,233,> 120 mg/dl,Normal,150,No Angina,2.3,Down Slope,0,Fixed Defect,Heart Disease
+58,Female,Typical Angina,136,319,> 120 mg/dl,Normal,152,No Angina,0,Up Slope,2,Reversible Defect,No Heart Disease
+45,Male,Non-Anginal Pain,110,264,< 120 mg/dl,ST-T Change,132,No Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+51,Male,Atypical Angina,110,175,< 120 mg/dl,ST-T Change,123,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+62,Female,No Pain,160,164,< 120 mg/dl,Normal,145,No Angina,6.2,Down Slope,3,Normal,No Heart Disease
+63,Male,No Pain,130,330,> 120 mg/dl,Normal,132,Angina,1.8,Up Slope,3,Normal,No Heart Disease
+66,Female,Atypical Angina,146,278,< 120 mg/dl,Normal,152,No Angina,0,Flat Slope,1,Reversible Defect,Heart Disease
+68,Male,Atypical Angina,180,274,> 120 mg/dl,Normal,150,Angina,1.6,Flat Slope,0,Normal,No Heart Disease
+40,Male,No Pain,110,167,< 120 mg/dl,Normal,114,Angina,2,Flat Slope,0,Normal,No Heart Disease
+66,Male,No Pain,160,228,< 120 mg/dl,Normal,138,No Angina,2.3,Up Slope,0,Fixed Defect,Heart Disease
+63,Male,Non-Anginal Pain,145,233,> 120 mg/dl,Normal,150,No Angina,2.3,Down Slope,0,Fixed Defect,Heart Disease
+49,Male,Atypical Angina,120,188,< 120 mg/dl,ST-T Change,139,No Angina,2,Flat Slope,3,Normal,No Heart Disease
+71,Female,No Pain,112,149,< 120 mg/dl,ST-T Change,125,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+70,Male,Typical Angina,156,245,< 120 mg/dl,Normal,143,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+46,Female,Typical Angina,105,204,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+61,Male,No Pain,140,207,< 120 mg/dl,Normal,138,Angina,1.9,Up Slope,1,Normal,No Heart Disease
+56,Male,Atypical Angina,130,256,> 120 mg/dl,Normal,142,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+58,Male,Atypical Angina,140,211,> 120 mg/dl,Normal,165,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,100,234,< 120 mg/dl,ST-T Change,156,No Angina,0.1,Up Slope,1,Normal,No Heart Disease
+46,Female,No Pain,138,243,< 120 mg/dl,Normal,152,Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+46,Male,Atypical Angina,150,231,< 120 mg/dl,ST-T Change,147,No Angina,3.6,Flat Slope,0,Reversible Defect,No Heart Disease
+41,Female,Typical Angina,105,198,< 120 mg/dl,ST-T Change,168,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+56,Male,No Pain,125,249,> 120 mg/dl,Normal,144,Angina,1.2,Flat Slope,1,Reversible Defect,No Heart Disease
+57,Male,No Pain,150,276,< 120 mg/dl,Normal,112,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+70,Male,No Pain,130,322,< 120 mg/dl,Normal,109,No Angina,2.4,Flat Slope,3,Reversible Defect,No Heart Disease
+59,Male,Non-Anginal Pain,170,288,< 120 mg/dl,Normal,159,No Angina,0.2,Flat Slope,0,Normal,No Heart Disease
+41,Female,Typical Angina,130,204,< 120 mg/dl,Normal,172,No Angina,1.4,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,Atypical Angina,125,273,< 120 mg/dl,Normal,152,No Angina,0.5,Down Slope,1,Reversible Defect,Heart Disease
+52,Male,Atypical Angina,138,223,< 120 mg/dl,ST-T Change,169,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+62,Female,No Pain,124,209,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+65,Female,Atypical Angina,160,360,< 120 mg/dl,Normal,151,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+57,Female,No Pain,128,303,< 120 mg/dl,Normal,159,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+42,Female,No Pain,102,265,< 120 mg/dl,Normal,122,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+57,Female,No Pain,120,354,< 120 mg/dl,ST-T Change,163,Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+58,Female,Typical Angina,136,319,> 120 mg/dl,Normal,152,No Angina,0,Up Slope,2,Reversible Defect,No Heart Disease
+45,Male,No Pain,142,309,< 120 mg/dl,Normal,147,Angina,0,Flat Slope,3,Normal,No Heart Disease
+51,Female,No Pain,130,305,< 120 mg/dl,ST-T Change,142,Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+54,Female,Atypical Angina,160,201,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+57,Male,Atypical Angina,150,168,< 120 mg/dl,ST-T Change,174,No Angina,1.6,Up Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,132,247,> 120 mg/dl,Normal,143,Angina,0.1,Flat Slope,4,Normal,No Heart Disease
+47,Male,Atypical Angina,108,243,< 120 mg/dl,ST-T Change,152,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+67,Male,Atypical Angina,152,212,< 120 mg/dl,Normal,150,No Angina,0.8,Flat Slope,0,Normal,No Heart Disease
+65,Female,No Pain,150,225,< 120 mg/dl,Normal,114,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+60,Female,Atypical Angina,102,318,< 120 mg/dl,ST-T Change,160,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+37,Male,Atypical Angina,130,250,< 120 mg/dl,ST-T Change,187,No Angina,3.5,Down Slope,0,Reversible Defect,Heart Disease
+41,Female,Atypical Angina,112,268,< 120 mg/dl,Normal,172,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+57,Female,No Pain,120,354,< 120 mg/dl,ST-T Change,163,Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+59,Female,No Pain,174,249,< 120 mg/dl,ST-T Change,143,Angina,0,Flat Slope,0,Reversible Defect,No Heart Disease
+67,Male,No Pain,120,229,< 120 mg/dl,Normal,129,Angina,2.6,Flat Slope,2,Normal,No Heart Disease
+47,Male,Atypical Angina,130,253,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,Typical Angina,120,284,< 120 mg/dl,Normal,160,No Angina,1.8,Flat Slope,0,Reversible Defect,No Heart Disease
+62,Female,No Pain,150,244,< 120 mg/dl,ST-T Change,154,Angina,1.4,Flat Slope,0,Reversible Defect,No Heart Disease
+60,Male,No Pain,140,293,< 120 mg/dl,Normal,170,No Angina,1.2,Flat Slope,2,Normal,No Heart Disease
+57,Male,No Pain,152,274,< 120 mg/dl,ST-T Change,88,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+57,Male,Atypical Angina,150,168,< 120 mg/dl,ST-T Change,174,No Angina,1.6,Up Slope,0,Reversible Defect,Heart Disease
+47,Male,Atypical Angina,130,253,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,Typical Angina,128,205,> 120 mg/dl,ST-T Change,184,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+53,Male,Atypical Angina,130,246,> 120 mg/dl,Normal,173,No Angina,0,Up Slope,3,Reversible Defect,Heart Disease
+55,Male,No Pain,160,289,< 120 mg/dl,Normal,145,Angina,0.8,Flat Slope,1,Normal,No Heart Disease
+51,Female,Atypical Angina,120,295,< 120 mg/dl,Normal,157,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,No Pain,112,230,< 120 mg/dl,ST-T Change,160,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+63,Female,No Pain,150,407,< 120 mg/dl,Normal,154,No Angina,4,Flat Slope,3,Normal,No Heart Disease
+49,Female,Typical Angina,134,271,< 120 mg/dl,ST-T Change,162,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+66,Female,No Pain,178,228,> 120 mg/dl,ST-T Change,165,Angina,1,Flat Slope,2,Normal,No Heart Disease
+49,Female,Typical Angina,134,271,< 120 mg/dl,ST-T Change,162,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+65,Female,No Pain,150,225,< 120 mg/dl,Normal,114,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+69,Male,Non-Anginal Pain,160,234,> 120 mg/dl,Normal,131,No Angina,0.1,Flat Slope,1,Reversible Defect,Heart Disease
+47,Male,Atypical Angina,108,243,< 120 mg/dl,ST-T Change,152,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+39,Female,Atypical Angina,138,220,< 120 mg/dl,ST-T Change,152,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,150,247,< 120 mg/dl,ST-T Change,171,No Angina,1.5,Up Slope,0,Reversible Defect,Heart Disease
+51,Male,No Pain,140,261,< 120 mg/dl,Normal,186,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+69,Male,Atypical Angina,140,254,< 120 mg/dl,Normal,146,No Angina,2,Flat Slope,3,Normal,No Heart Disease
+48,Male,Atypical Angina,124,255,> 120 mg/dl,ST-T Change,175,No Angina,0,Up Slope,2,Reversible Defect,Heart Disease
+52,Male,Non-Anginal Pain,118,186,< 120 mg/dl,Normal,190,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+43,Male,No Pain,110,211,< 120 mg/dl,ST-T Change,161,No Angina,0,Up Slope,0,Normal,Heart Disease
+67,Female,Atypical Angina,115,564,< 120 mg/dl,Normal,160,No Angina,1.6,Flat Slope,0,Normal,Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+44,Male,Typical Angina,130,219,< 120 mg/dl,Normal,188,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+47,Male,No Pain,110,275,< 120 mg/dl,Normal,118,Angina,1,Flat Slope,1,Reversible Defect,No Heart Disease
+61,Male,Atypical Angina,150,243,> 120 mg/dl,ST-T Change,137,Angina,1,Flat Slope,0,Reversible Defect,Heart Disease
+67,Male,No Pain,160,286,< 120 mg/dl,Normal,108,Angina,1.5,Flat Slope,3,Reversible Defect,No Heart Disease
+60,Female,Non-Anginal Pain,150,240,< 120 mg/dl,ST-T Change,171,No Angina,0.9,Up Slope,0,Reversible Defect,Heart Disease
+64,Female,Atypical Angina,140,313,< 120 mg/dl,ST-T Change,133,No Angina,0.2,Up Slope,0,Normal,Heart Disease
+58,Female,No Pain,130,197,< 120 mg/dl,ST-T Change,131,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+41,Male,Atypical Angina,130,214,< 120 mg/dl,Normal,168,No Angina,2,Flat Slope,0,Reversible Defect,Heart Disease
+48,Male,Typical Angina,110,229,< 120 mg/dl,ST-T Change,168,No Angina,1,Down Slope,0,Normal,No Heart Disease
+57,Male,Atypical Angina,150,126,> 120 mg/dl,ST-T Change,173,No Angina,0.2,Up Slope,1,Normal,Heart Disease
+57,Male,No Pain,165,289,> 120 mg/dl,Normal,124,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+57,Male,Atypical Angina,128,229,< 120 mg/dl,Normal,150,No Angina,0.4,Flat Slope,1,Normal,No Heart Disease
+39,Male,Atypical Angina,140,321,< 120 mg/dl,Normal,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,128,216,< 120 mg/dl,Normal,131,Angina,2.2,Flat Slope,3,Normal,No Heart Disease
+51,Female,No Pain,130,305,< 120 mg/dl,ST-T Change,142,Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+63,Female,No Pain,150,407,< 120 mg/dl,Normal,154,No Angina,4,Flat Slope,3,Normal,No Heart Disease
+51,Male,No Pain,140,298,< 120 mg/dl,ST-T Change,122,Angina,4.2,Flat Slope,3,Normal,No Heart Disease
+35,Male,Typical Angina,122,192,< 120 mg/dl,ST-T Change,174,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+65,Male,No Pain,110,248,< 120 mg/dl,Normal,158,No Angina,0.6,Up Slope,2,Fixed Defect,No Heart Disease
+62,Male,Typical Angina,120,281,< 120 mg/dl,Normal,103,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+41,Male,No Pain,110,172,< 120 mg/dl,Normal,158,No Angina,0,Up Slope,0,Normal,No Heart Disease
+65,Male,No Pain,135,254,< 120 mg/dl,Normal,127,No Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+54,Female,Typical Angina,132,288,> 120 mg/dl,Normal,159,Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+61,Male,Atypical Angina,150,243,> 120 mg/dl,ST-T Change,137,Angina,1,Flat Slope,0,Reversible Defect,Heart Disease
+57,Female,No Pain,128,303,< 120 mg/dl,Normal,159,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+57,Male,Atypical Angina,150,168,< 120 mg/dl,ST-T Change,174,No Angina,1.6,Up Slope,0,Reversible Defect,Heart Disease
+64,Male,Atypical Angina,125,309,< 120 mg/dl,ST-T Change,131,Angina,1.8,Flat Slope,0,Normal,No Heart Disease
+55,Male,No Pain,132,353,< 120 mg/dl,ST-T Change,132,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+51,Male,Atypical Angina,125,245,> 120 mg/dl,Normal,166,No Angina,2.4,Flat Slope,0,Reversible Defect,Heart Disease
+59,Male,No Pain,135,234,< 120 mg/dl,ST-T Change,161,No Angina,0.5,Flat Slope,0,Normal,Heart Disease
+68,Male,Atypical Angina,180,274,> 120 mg/dl,Normal,150,Angina,1.6,Flat Slope,0,Normal,No Heart Disease
+57,Male,Typical Angina,154,232,< 120 mg/dl,Normal,164,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+54,Male,No Pain,140,239,< 120 mg/dl,ST-T Change,160,No Angina,1.2,Up Slope,0,Reversible Defect,Heart Disease
+46,Female,Atypical Angina,142,177,< 120 mg/dl,Normal,160,Angina,1.4,Down Slope,0,Reversible Defect,Heart Disease
+71,Female,No Pain,112,149,< 120 mg/dl,ST-T Change,125,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+35,Female,No Pain,138,183,< 120 mg/dl,ST-T Change,182,No Angina,1.4,Up Slope,0,Reversible Defect,Heart Disease
+46,Female,Atypical Angina,142,177,< 120 mg/dl,Normal,160,Angina,1.4,Down Slope,0,Reversible Defect,Heart Disease
+45,Female,Typical Angina,130,234,< 120 mg/dl,Normal,175,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+47,Male,Atypical Angina,108,243,< 120 mg/dl,ST-T Change,152,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+44,Female,Atypical Angina,118,242,< 120 mg/dl,ST-T Change,149,No Angina,0.3,Flat Slope,1,Reversible Defect,Heart Disease
+61,Male,No Pain,120,260,< 120 mg/dl,ST-T Change,140,Angina,3.6,Flat Slope,1,Normal,No Heart Disease
+41,Female,Typical Angina,130,204,< 120 mg/dl,Normal,172,No Angina,1.4,Up Slope,0,Reversible Defect,Heart Disease
+56,Female,No Pain,200,288,> 120 mg/dl,Normal,133,Angina,4,Down Slope,2,Normal,No Heart Disease
+55,Female,No Pain,180,327,< 120 mg/dl,Left Ventricular Hypertrophy,117,Angina,3.4,Flat Slope,0,Reversible Defect,No Heart Disease
+54,Female,Typical Angina,132,288,> 120 mg/dl,Normal,159,Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+43,Male,No Pain,120,177,< 120 mg/dl,Normal,120,Angina,2.5,Flat Slope,0,Normal,No Heart Disease
+44,Male,No Pain,112,290,< 120 mg/dl,Normal,153,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+54,Male,No Pain,110,206,< 120 mg/dl,Normal,108,Angina,0,Flat Slope,1,Reversible Defect,No Heart Disease
+44,Male,Typical Angina,120,220,< 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+49,Male,Atypical Angina,120,188,< 120 mg/dl,ST-T Change,139,No Angina,2,Flat Slope,3,Normal,No Heart Disease
+60,Male,No Pain,130,206,< 120 mg/dl,Normal,132,Angina,2.4,Flat Slope,2,Normal,No Heart Disease
+41,Female,Typical Angina,105,198,< 120 mg/dl,ST-T Change,168,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+49,Male,Atypical Angina,120,188,< 120 mg/dl,ST-T Change,139,No Angina,2,Flat Slope,3,Normal,No Heart Disease
+61,Male,No Pain,148,203,< 120 mg/dl,ST-T Change,161,No Angina,0,Up Slope,1,Normal,No Heart Disease
+59,Male,No Pain,140,177,< 120 mg/dl,ST-T Change,162,Angina,0,Up Slope,1,Normal,No Heart Disease
+58,Male,Typical Angina,125,220,< 120 mg/dl,ST-T Change,144,No Angina,0.4,Flat Slope,4,Normal,Heart Disease
+67,Female,Atypical Angina,152,277,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+61,Male,No Pain,148,203,< 120 mg/dl,ST-T Change,161,No Angina,0,Up Slope,1,Normal,No Heart Disease
+58,Male,Atypical Angina,112,230,< 120 mg/dl,Normal,165,No Angina,2.5,Flat Slope,1,Normal,No Heart Disease
+51,Female,Atypical Angina,130,256,< 120 mg/dl,Normal,149,No Angina,0.5,Up Slope,0,Reversible Defect,Heart Disease
+62,Female,No Pain,160,164,< 120 mg/dl,Normal,145,No Angina,6.2,Down Slope,3,Normal,No Heart Disease
+62,Female,No Pain,124,209,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,Non-Anginal Pain,178,270,< 120 mg/dl,Normal,145,No Angina,4.2,Down Slope,0,Normal,Heart Disease
+69,Male,Non-Anginal Pain,160,234,> 120 mg/dl,Normal,131,No Angina,0.1,Flat Slope,1,Reversible Defect,Heart Disease
+60,Female,No Pain,150,258,< 120 mg/dl,Normal,157,No Angina,2.6,Flat Slope,2,Normal,No Heart Disease
+65,Female,Atypical Angina,155,269,< 120 mg/dl,ST-T Change,148,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+63,Female,No Pain,124,197,< 120 mg/dl,ST-T Change,136,Angina,0,Flat Slope,0,Reversible Defect,No Heart Disease
+53,Female,No Pain,138,234,< 120 mg/dl,Normal,160,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Female,Atypical Angina,108,267,< 120 mg/dl,Normal,167,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+76,Female,Atypical Angina,140,197,< 120 mg/dl,Left Ventricular Hypertrophy,116,No Angina,1.1,Flat Slope,0,Reversible Defect,Heart Disease
+50,Female,Atypical Angina,120,219,< 120 mg/dl,ST-T Change,158,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+52,Male,Typical Angina,120,325,< 120 mg/dl,ST-T Change,172,No Angina,0.2,Up Slope,0,Reversible Defect,Heart Disease
+46,Male,No Pain,120,249,< 120 mg/dl,Normal,144,No Angina,0.8,Up Slope,0,Normal,No Heart Disease
+64,Male,Non-Anginal Pain,170,227,< 120 mg/dl,Normal,155,No Angina,0.6,Flat Slope,0,Normal,Heart Disease
+58,Male,No Pain,128,259,< 120 mg/dl,Normal,130,Angina,3,Flat Slope,2,Normal,No Heart Disease
+44,Male,Atypical Angina,140,235,< 120 mg/dl,Normal,180,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+62,Female,No Pain,140,394,< 120 mg/dl,Normal,157,No Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+59,Male,Non-Anginal Pain,134,204,< 120 mg/dl,ST-T Change,162,No Angina,0.8,Up Slope,2,Reversible Defect,No Heart Disease
+54,Male,Atypical Angina,125,273,< 120 mg/dl,Normal,152,No Angina,0.5,Down Slope,1,Reversible Defect,Heart Disease
+48,Male,Typical Angina,110,229,< 120 mg/dl,ST-T Change,168,No Angina,1,Down Slope,0,Normal,No Heart Disease
+70,Male,No Pain,130,322,< 120 mg/dl,Normal,109,No Angina,2.4,Flat Slope,3,Reversible Defect,No Heart Disease
+67,Female,No Pain,106,223,< 120 mg/dl,ST-T Change,142,No Angina,0.3,Up Slope,2,Reversible Defect,Heart Disease
+51,Female,Atypical Angina,120,295,< 120 mg/dl,Normal,157,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+68,Male,Atypical Angina,118,277,< 120 mg/dl,ST-T Change,151,No Angina,1,Up Slope,1,Normal,Heart Disease
+69,Male,Atypical Angina,140,254,< 120 mg/dl,Normal,146,No Angina,2,Flat Slope,3,Normal,No Heart Disease
+54,Male,No Pain,122,286,< 120 mg/dl,Normal,116,Angina,3.2,Flat Slope,2,Reversible Defect,No Heart Disease
+43,Female,No Pain,132,341,> 120 mg/dl,Normal,136,Angina,3,Flat Slope,0,Normal,No Heart Disease
+53,Male,Atypical Angina,130,197,> 120 mg/dl,Normal,152,No Angina,1.2,Down Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,100,234,< 120 mg/dl,ST-T Change,156,No Angina,0.1,Up Slope,1,Normal,No Heart Disease
+67,Male,No Pain,125,254,> 120 mg/dl,ST-T Change,163,No Angina,0.2,Flat Slope,2,Normal,No Heart Disease
+59,Male,No Pain,140,177,< 120 mg/dl,ST-T Change,162,Angina,0,Up Slope,1,Normal,No Heart Disease
+48,Male,No Pain,122,222,< 120 mg/dl,Normal,186,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+39,Female,Atypical Angina,94,199,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+67,Male,No Pain,120,237,< 120 mg/dl,ST-T Change,71,No Angina,1,Flat Slope,0,Reversible Defect,No Heart Disease
+58,Female,No Pain,130,197,< 120 mg/dl,ST-T Change,131,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+65,Female,Atypical Angina,155,269,< 120 mg/dl,ST-T Change,148,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+42,Female,Atypical Angina,120,209,< 120 mg/dl,ST-T Change,173,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+44,Male,No Pain,112,290,< 120 mg/dl,Normal,153,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+56,Male,No Pain,132,184,< 120 mg/dl,Normal,105,Angina,2.1,Flat Slope,1,Fixed Defect,No Heart Disease
+53,Female,No Pain,138,234,< 120 mg/dl,Normal,160,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+50,Female,No Pain,110,254,< 120 mg/dl,Normal,159,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Atypical Angina,130,214,< 120 mg/dl,Normal,168,No Angina,2,Flat Slope,0,Reversible Defect,Heart Disease
+54,Female,Atypical Angina,160,201,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+42,Male,Atypical Angina,120,240,> 120 mg/dl,ST-T Change,194,No Angina,0.8,Down Slope,0,Normal,Heart Disease
+54,Female,Atypical Angina,135,304,> 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+60,Male,No Pain,145,282,< 120 mg/dl,Normal,142,Angina,2.8,Flat Slope,2,Normal,No Heart Disease
+34,Male,Non-Anginal Pain,118,182,< 120 mg/dl,Normal,174,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+44,Male,No Pain,112,290,< 120 mg/dl,Normal,153,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+60,Male,No Pain,125,258,< 120 mg/dl,Normal,141,Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+43,Male,No Pain,150,247,< 120 mg/dl,ST-T Change,171,No Angina,1.5,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,Non-Anginal Pain,152,298,> 120 mg/dl,ST-T Change,178,No Angina,1.2,Flat Slope,0,Normal,Heart Disease
+70,Male,No Pain,130,322,< 120 mg/dl,Normal,109,No Angina,2.4,Flat Slope,3,Reversible Defect,No Heart Disease
+62,Female,No Pain,140,394,< 120 mg/dl,Normal,157,No Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,146,218,< 120 mg/dl,ST-T Change,105,No Angina,2,Flat Slope,1,Normal,No Heart Disease
+46,Male,Typical Angina,101,197,> 120 mg/dl,ST-T Change,156,No Angina,0,Up Slope,0,Normal,Heart Disease
+44,Male,Atypical Angina,140,235,< 120 mg/dl,Normal,180,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+55,Male,Typical Angina,130,262,< 120 mg/dl,ST-T Change,155,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,120,177,< 120 mg/dl,Normal,120,Angina,2.5,Flat Slope,0,Normal,No Heart Disease
+55,Male,No Pain,132,353,< 120 mg/dl,ST-T Change,132,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+40,Male,Non-Anginal Pain,140,199,< 120 mg/dl,ST-T Change,178,Angina,1.4,Up Slope,0,Normal,Heart Disease
+64,Male,Atypical Angina,125,309,< 120 mg/dl,ST-T Change,131,Angina,1.8,Flat Slope,0,Normal,No Heart Disease
+59,Male,No Pain,164,176,> 120 mg/dl,Normal,90,No Angina,1,Flat Slope,2,Fixed Defect,No Heart Disease
+61,Female,No Pain,145,307,< 120 mg/dl,Normal,146,Angina,1,Flat Slope,0,Normal,No Heart Disease
+54,Male,No Pain,122,286,< 120 mg/dl,Normal,116,Angina,3.2,Flat Slope,2,Reversible Defect,No Heart Disease
+74,Female,Typical Angina,120,269,< 120 mg/dl,Normal,121,Angina,0.2,Up Slope,1,Reversible Defect,Heart Disease
+63,Female,No Pain,108,269,< 120 mg/dl,ST-T Change,169,Angina,1.8,Flat Slope,2,Reversible Defect,No Heart Disease
+70,Male,Atypical Angina,160,269,< 120 mg/dl,ST-T Change,112,Angina,2.9,Flat Slope,1,Normal,No Heart Disease
+63,Female,No Pain,108,269,< 120 mg/dl,ST-T Change,169,Angina,1.8,Flat Slope,2,Reversible Defect,No Heart Disease
+64,Male,No Pain,145,212,< 120 mg/dl,Normal,132,No Angina,2,Flat Slope,2,Fixed Defect,No Heart Disease
+61,Male,No Pain,148,203,< 120 mg/dl,ST-T Change,161,No Angina,0,Up Slope,1,Normal,No Heart Disease
+59,Male,Typical Angina,140,221,< 120 mg/dl,ST-T Change,164,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+58,Male,Typical Angina,120,284,< 120 mg/dl,Normal,160,No Angina,1.8,Flat Slope,0,Reversible Defect,No Heart Disease
+63,Female,Typical Angina,140,195,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,2,Reversible Defect,Heart Disease
+62,Female,Atypical Angina,130,263,< 120 mg/dl,ST-T Change,97,No Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+46,Male,No Pain,140,311,< 120 mg/dl,ST-T Change,120,Angina,1.8,Flat Slope,2,Normal,No Heart Disease
+58,Female,Atypical Angina,120,340,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+63,Female,Typical Angina,140,195,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,2,Reversible Defect,Heart Disease
+47,Male,Atypical Angina,130,253,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+71,Female,Atypical Angina,110,265,> 120 mg/dl,Normal,130,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+66,Male,No Pain,112,212,< 120 mg/dl,Normal,132,Angina,0.1,Up Slope,1,Reversible Defect,No Heart Disease
+42,Male,No Pain,136,315,< 120 mg/dl,ST-T Change,125,Angina,1.8,Flat Slope,0,Fixed Defect,No Heart Disease
+64,Male,No Pain,145,212,< 120 mg/dl,Normal,132,No Angina,2,Flat Slope,2,Fixed Defect,No Heart Disease
+55,Female,No Pain,180,327,< 120 mg/dl,Left Ventricular Hypertrophy,117,Angina,3.4,Flat Slope,0,Reversible Defect,No Heart Disease
+43,Female,No Pain,132,341,> 120 mg/dl,Normal,136,Angina,3,Flat Slope,0,Normal,No Heart Disease
+55,Female,No Pain,128,205,< 120 mg/dl,Left Ventricular Hypertrophy,130,Angina,2,Flat Slope,1,Normal,No Heart Disease
+58,Female,No Pain,170,225,> 120 mg/dl,Normal,146,Angina,2.8,Flat Slope,2,Fixed Defect,No Heart Disease
+55,Male,No Pain,140,217,< 120 mg/dl,ST-T Change,111,Angina,5.6,Down Slope,0,Normal,No Heart Disease
+51,Female,No Pain,130,305,< 120 mg/dl,ST-T Change,142,Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+50,Female,Atypical Angina,120,219,< 120 mg/dl,ST-T Change,158,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,115,303,< 120 mg/dl,ST-T Change,181,No Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+41,Female,Typical Angina,126,306,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+49,Male,Typical Angina,130,266,< 120 mg/dl,ST-T Change,171,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+65,Male,No Pain,110,248,< 120 mg/dl,Normal,158,No Angina,0.6,Up Slope,2,Fixed Defect,No Heart Disease
+57,Male,No Pain,152,274,< 120 mg/dl,ST-T Change,88,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+48,Male,No Pain,130,256,> 120 mg/dl,Normal,150,Angina,0,Up Slope,2,Normal,No Heart Disease
+62,Female,No Pain,138,294,> 120 mg/dl,ST-T Change,106,No Angina,1.9,Flat Slope,3,Reversible Defect,No Heart Disease
+61,Male,Non-Anginal Pain,134,234,< 120 mg/dl,ST-T Change,145,No Angina,2.6,Flat Slope,2,Reversible Defect,No Heart Disease
+59,Male,Non-Anginal Pain,178,270,< 120 mg/dl,Normal,145,No Angina,4.2,Down Slope,0,Normal,Heart Disease
+69,Male,Atypical Angina,140,254,< 120 mg/dl,Normal,146,No Angina,2,Flat Slope,3,Normal,No Heart Disease
+58,Male,Atypical Angina,132,224,< 120 mg/dl,Normal,173,No Angina,3.2,Up Slope,2,Normal,No Heart Disease
+38,Male,Non-Anginal Pain,120,231,< 120 mg/dl,ST-T Change,182,Angina,3.8,Flat Slope,0,Normal,No Heart Disease
+69,Female,Non-Anginal Pain,140,239,< 120 mg/dl,ST-T Change,151,No Angina,1.8,Up Slope,2,Reversible Defect,Heart Disease
+65,Male,Non-Anginal Pain,138,282,> 120 mg/dl,Normal,174,No Angina,1.4,Flat Slope,1,Reversible Defect,No Heart Disease
+45,Male,Non-Anginal Pain,110,264,< 120 mg/dl,ST-T Change,132,No Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+49,Male,Typical Angina,130,266,< 120 mg/dl,ST-T Change,171,No Angina,0.6,Up Slope,0,Reversible Defect,Heart Disease
+45,Female,Typical Angina,130,234,< 120 mg/dl,Normal,175,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+61,Male,No Pain,138,166,< 120 mg/dl,Normal,125,Angina,3.6,Flat Slope,1,Reversible Defect,No Heart Disease
+52,Male,No Pain,125,212,< 120 mg/dl,ST-T Change,168,No Angina,1,Up Slope,2,Normal,No Heart Disease
+53,Female,No Pain,130,264,< 120 mg/dl,Normal,143,No Angina,0.4,Flat Slope,0,Reversible Defect,Heart Disease
+59,Female,No Pain,174,249,< 120 mg/dl,ST-T Change,143,Angina,0,Flat Slope,0,Reversible Defect,No Heart Disease
+58,Female,Atypical Angina,120,340,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+65,Male,Non-Anginal Pain,138,282,> 120 mg/dl,Normal,174,No Angina,1.4,Flat Slope,1,Reversible Defect,No Heart Disease
+58,Female,No Pain,130,197,< 120 mg/dl,ST-T Change,131,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+46,Female,No Pain,138,243,< 120 mg/dl,Normal,152,Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+56,Female,No Pain,134,409,< 120 mg/dl,Normal,150,Angina,1.9,Flat Slope,2,Normal,No Heart Disease
+64,Male,No Pain,128,263,< 120 mg/dl,ST-T Change,105,Angina,0.2,Flat Slope,1,Normal,Heart Disease
+65,Male,No Pain,120,177,< 120 mg/dl,ST-T Change,140,No Angina,0.4,Up Slope,0,Normal,Heart Disease
+44,Male,Atypical Angina,120,226,< 120 mg/dl,ST-T Change,169,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+50,Male,No Pain,150,243,< 120 mg/dl,Normal,128,No Angina,2.6,Flat Slope,0,Normal,No Heart Disease
+47,Male,Atypical Angina,108,243,< 120 mg/dl,ST-T Change,152,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+64,Female,No Pain,130,303,< 120 mg/dl,ST-T Change,122,No Angina,2,Flat Slope,2,Reversible Defect,Heart Disease
+71,Female,No Pain,112,149,< 120 mg/dl,ST-T Change,125,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+45,Female,Typical Angina,130,234,< 120 mg/dl,Normal,175,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+62,Male,No Pain,120,267,< 120 mg/dl,ST-T Change,99,Angina,1.8,Flat Slope,2,Normal,No Heart Disease
+41,Male,Typical Angina,120,157,< 120 mg/dl,ST-T Change,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+66,Female,Non-Anginal Pain,150,226,< 120 mg/dl,ST-T Change,114,No Angina,2.6,Down Slope,0,Reversible Defect,Heart Disease
+56,Male,No Pain,130,283,> 120 mg/dl,Normal,103,Angina,1.6,Down Slope,0,Normal,No Heart Disease
+41,Female,Typical Angina,126,306,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Typical Angina,110,235,< 120 mg/dl,ST-T Change,153,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+57,Female,Typical Angina,130,236,< 120 mg/dl,Normal,174,No Angina,0,Flat Slope,1,Reversible Defect,No Heart Disease
+39,Female,Atypical Angina,138,220,< 120 mg/dl,ST-T Change,152,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+64,Male,Atypical Angina,125,309,< 120 mg/dl,ST-T Change,131,Angina,1.8,Flat Slope,0,Normal,No Heart Disease
+59,Male,No Pain,138,271,< 120 mg/dl,Normal,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+61,Male,No Pain,138,166,< 120 mg/dl,Normal,125,Angina,3.6,Flat Slope,1,Reversible Defect,No Heart Disease
+58,Male,No Pain,114,318,< 120 mg/dl,Left Ventricular Hypertrophy,140,No Angina,4.4,Down Slope,3,Fixed Defect,No Heart Disease
+47,Male,No Pain,112,204,< 120 mg/dl,ST-T Change,143,No Angina,0.1,Up Slope,0,Reversible Defect,Heart Disease
+58,Female,No Pain,100,248,< 120 mg/dl,Normal,122,No Angina,1,Flat Slope,0,Reversible Defect,Heart Disease
+66,Female,Non-Anginal Pain,150,226,< 120 mg/dl,ST-T Change,114,No Angina,2.6,Down Slope,0,Reversible Defect,Heart Disease
+65,Female,Atypical Angina,140,417,> 120 mg/dl,Normal,157,No Angina,0.8,Up Slope,1,Reversible Defect,Heart Disease
+35,Male,Typical Angina,122,192,< 120 mg/dl,ST-T Change,174,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+57,Male,Typical Angina,124,261,< 120 mg/dl,ST-T Change,141,No Angina,0.3,Up Slope,0,Normal,No Heart Disease
+29,Male,Typical Angina,130,204,< 120 mg/dl,Normal,202,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+66,Male,Typical Angina,160,246,< 120 mg/dl,ST-T Change,120,Angina,0,Flat Slope,3,Fixed Defect,No Heart Disease
+61,Female,No Pain,130,330,< 120 mg/dl,Normal,169,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+52,Male,No Pain,125,212,< 120 mg/dl,ST-T Change,168,No Angina,1,Up Slope,2,Normal,No Heart Disease
+68,Male,Atypical Angina,118,277,< 120 mg/dl,ST-T Change,151,No Angina,1,Up Slope,1,Normal,Heart Disease
+54,Male,Atypical Angina,120,258,< 120 mg/dl,Normal,147,No Angina,0.4,Flat Slope,0,Normal,Heart Disease
+63,Male,No Pain,130,330,> 120 mg/dl,Normal,132,Angina,1.8,Up Slope,3,Normal,No Heart Disease
+58,Male,No Pain,100,234,< 120 mg/dl,ST-T Change,156,No Angina,0.1,Up Slope,1,Normal,No Heart Disease
+60,Male,No Pain,130,253,< 120 mg/dl,ST-T Change,144,Angina,1.4,Up Slope,1,Normal,No Heart Disease
+63,Male,No Pain,130,254,< 120 mg/dl,Normal,147,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+41,Female,Atypical Angina,112,268,< 120 mg/dl,Normal,172,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+68,Male,Atypical Angina,180,274,> 120 mg/dl,Normal,150,Angina,1.6,Flat Slope,0,Normal,No Heart Disease
+42,Male,Typical Angina,120,295,< 120 mg/dl,ST-T Change,162,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,No Pain,170,326,< 120 mg/dl,Normal,140,Angina,3.4,Down Slope,0,Normal,No Heart Disease
+59,Male,No Pain,164,176,> 120 mg/dl,Normal,90,No Angina,1,Flat Slope,2,Fixed Defect,No Heart Disease
+43,Male,No Pain,120,177,< 120 mg/dl,Normal,120,Angina,2.5,Flat Slope,0,Normal,No Heart Disease
+60,Male,Atypical Angina,140,185,< 120 mg/dl,Normal,155,No Angina,3,Flat Slope,0,Reversible Defect,No Heart Disease
+63,Female,No Pain,150,407,< 120 mg/dl,Normal,154,No Angina,4,Flat Slope,3,Normal,No Heart Disease
+52,Male,No Pain,128,204,> 120 mg/dl,ST-T Change,156,Angina,1,Flat Slope,0,Unknown,No Heart Disease
+58,Male,No Pain,125,300,< 120 mg/dl,Normal,171,No Angina,0,Up Slope,2,Normal,No Heart Disease
+56,Female,No Pain,200,288,> 120 mg/dl,Normal,133,Angina,4,Down Slope,2,Normal,No Heart Disease
+54,Female,Atypical Angina,135,304,> 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,Atypical Angina,105,240,< 120 mg/dl,Normal,154,Angina,0.6,Flat Slope,0,Normal,Heart Disease
+55,Female,Typical Angina,135,250,< 120 mg/dl,Normal,161,No Angina,1.4,Flat Slope,0,Reversible Defect,Heart Disease
+53,Male,No Pain,140,203,> 120 mg/dl,Normal,155,Angina,3.1,Down Slope,0,Normal,No Heart Disease
+63,Female,Typical Angina,140,195,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,2,Reversible Defect,Heart Disease
+39,Male,No Pain,118,219,< 120 mg/dl,ST-T Change,140,No Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+35,Male,No Pain,126,282,< 120 mg/dl,Normal,156,Angina,0,Up Slope,0,Normal,No Heart Disease
+50,Female,Atypical Angina,120,219,< 120 mg/dl,ST-T Change,158,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+67,Male,Atypical Angina,152,212,< 120 mg/dl,Normal,150,No Angina,0.8,Flat Slope,0,Normal,No Heart Disease
+66,Male,No Pain,112,212,< 120 mg/dl,Normal,132,Angina,0.1,Up Slope,1,Reversible Defect,No Heart Disease
+35,Male,No Pain,126,282,< 120 mg/dl,Normal,156,Angina,0,Up Slope,0,Normal,No Heart Disease
+41,Male,Atypical Angina,130,214,< 120 mg/dl,Normal,168,No Angina,2,Flat Slope,0,Reversible Defect,Heart Disease
+35,Male,No Pain,120,198,< 120 mg/dl,ST-T Change,130,Angina,1.6,Flat Slope,0,Normal,No Heart Disease
+71,Female,Typical Angina,160,302,< 120 mg/dl,ST-T Change,162,No Angina,0.4,Up Slope,2,Reversible Defect,Heart Disease
+57,Male,No Pain,110,201,< 120 mg/dl,ST-T Change,126,Angina,1.5,Flat Slope,0,Fixed Defect,Heart Disease
+51,Male,Atypical Angina,94,227,< 120 mg/dl,ST-T Change,154,Angina,0,Up Slope,1,Normal,Heart Disease
+58,Male,No Pain,128,216,< 120 mg/dl,Normal,131,Angina,2.2,Flat Slope,3,Normal,No Heart Disease
+57,Male,Atypical Angina,128,229,< 120 mg/dl,Normal,150,No Angina,0.4,Flat Slope,1,Normal,No Heart Disease
+56,Female,Typical Angina,140,294,< 120 mg/dl,Normal,153,No Angina,1.3,Flat Slope,0,Reversible Defect,Heart Disease
+60,Female,Atypical Angina,120,178,> 120 mg/dl,ST-T Change,96,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+45,Male,Non-Anginal Pain,110,264,< 120 mg/dl,ST-T Change,132,No Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+56,Male,Typical Angina,130,221,< 120 mg/dl,Normal,163,No Angina,0,Up Slope,0,Normal,Heart Disease
+35,Male,No Pain,120,198,< 120 mg/dl,ST-T Change,130,Angina,1.6,Flat Slope,0,Normal,No Heart Disease
+45,Female,Typical Angina,112,160,< 120 mg/dl,ST-T Change,138,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+66,Female,Non-Anginal Pain,150,226,< 120 mg/dl,ST-T Change,114,No Angina,2.6,Down Slope,0,Reversible Defect,Heart Disease
+51,Male,Non-Anginal Pain,125,213,< 120 mg/dl,Normal,125,Angina,1.4,Up Slope,1,Reversible Defect,Heart Disease
+70,Male,Typical Angina,156,245,< 120 mg/dl,Normal,143,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+55,Female,No Pain,128,205,< 120 mg/dl,Left Ventricular Hypertrophy,130,Angina,2,Flat Slope,1,Normal,No Heart Disease
+56,Male,Atypical Angina,130,256,> 120 mg/dl,Normal,142,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+55,Female,Typical Angina,135,250,< 120 mg/dl,Normal,161,No Angina,1.4,Flat Slope,0,Reversible Defect,Heart Disease
+52,Male,No Pain,108,233,> 120 mg/dl,ST-T Change,147,No Angina,0.1,Up Slope,3,Normal,Heart Disease
+64,Male,Atypical Angina,140,335,< 120 mg/dl,ST-T Change,158,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+45,Male,No Pain,115,260,< 120 mg/dl,Normal,185,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+67,Female,Atypical Angina,152,277,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+68,Female,Atypical Angina,120,211,< 120 mg/dl,Normal,115,No Angina,1.5,Flat Slope,0,Reversible Defect,Heart Disease
+74,Female,Typical Angina,120,269,< 120 mg/dl,Normal,121,Angina,0.2,Up Slope,1,Reversible Defect,Heart Disease
+60,Female,No Pain,150,258,< 120 mg/dl,Normal,157,No Angina,2.6,Flat Slope,2,Normal,No Heart Disease
+48,Male,No Pain,124,274,< 120 mg/dl,Normal,166,No Angina,0.5,Flat Slope,0,Normal,No Heart Disease
+56,Male,Typical Angina,130,221,< 120 mg/dl,Normal,163,No Angina,0,Up Slope,0,Normal,Heart Disease
+46,Male,No Pain,140,311,< 120 mg/dl,ST-T Change,120,Angina,1.8,Flat Slope,2,Normal,No Heart Disease
+55,Female,Typical Angina,135,250,< 120 mg/dl,Normal,161,No Angina,1.4,Flat Slope,0,Reversible Defect,Heart Disease
+44,Male,Typical Angina,120,220,< 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,No Pain,112,230,< 120 mg/dl,ST-T Change,160,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+51,Male,Atypical Angina,94,227,< 120 mg/dl,ST-T Change,154,Angina,0,Up Slope,1,Normal,Heart Disease
+44,Female,Atypical Angina,108,141,< 120 mg/dl,ST-T Change,175,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+52,Male,No Pain,128,204,> 120 mg/dl,ST-T Change,156,Angina,1,Flat Slope,0,Unknown,No Heart Disease
+50,Male,Atypical Angina,129,196,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,No Pain,110,239,< 120 mg/dl,Normal,142,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+67,Male,No Pain,120,229,< 120 mg/dl,Normal,129,Angina,2.6,Flat Slope,2,Normal,No Heart Disease
+58,Male,No Pain,125,300,< 120 mg/dl,Normal,171,No Angina,0,Up Slope,2,Normal,No Heart Disease
+52,Male,No Pain,128,255,< 120 mg/dl,ST-T Change,161,Angina,0,Up Slope,1,Normal,No Heart Disease
+44,Male,Atypical Angina,140,235,< 120 mg/dl,Normal,180,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Female,Atypical Angina,112,268,< 120 mg/dl,Normal,172,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+63,Male,No Pain,130,330,> 120 mg/dl,Normal,132,Angina,1.8,Up Slope,3,Normal,No Heart Disease
+58,Male,Typical Angina,125,220,< 120 mg/dl,ST-T Change,144,No Angina,0.4,Flat Slope,4,Normal,Heart Disease
+60,Female,Atypical Angina,102,318,< 120 mg/dl,ST-T Change,160,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+51,Male,Atypical Angina,100,222,< 120 mg/dl,ST-T Change,143,Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+64,Male,Atypical Angina,140,335,< 120 mg/dl,ST-T Change,158,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+60,Male,No Pain,117,230,> 120 mg/dl,ST-T Change,160,Angina,1.4,Up Slope,2,Normal,No Heart Disease
+44,Male,Atypical Angina,120,226,< 120 mg/dl,ST-T Change,169,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,Typical Angina,125,220,< 120 mg/dl,ST-T Change,144,No Angina,0.4,Flat Slope,4,Normal,Heart Disease
+55,Male,Typical Angina,130,262,< 120 mg/dl,ST-T Change,155,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+65,Female,Atypical Angina,160,360,< 120 mg/dl,Normal,151,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+48,Male,Typical Angina,130,245,< 120 mg/dl,Normal,180,No Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+65,Male,No Pain,120,177,< 120 mg/dl,ST-T Change,140,No Angina,0.4,Up Slope,0,Normal,Heart Disease
+51,Female,Atypical Angina,130,256,< 120 mg/dl,Normal,149,No Angina,0.5,Up Slope,0,Reversible Defect,Heart Disease
+48,Male,Atypical Angina,124,255,> 120 mg/dl,ST-T Change,175,No Angina,0,Up Slope,2,Reversible Defect,Heart Disease
+64,Male,No Pain,120,246,< 120 mg/dl,Normal,96,Angina,2.2,Down Slope,1,Reversible Defect,No Heart Disease
+66,Male,No Pain,160,228,< 120 mg/dl,Normal,138,No Angina,2.3,Up Slope,0,Fixed Defect,Heart Disease
+46,Female,Typical Angina,105,204,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+61,Female,No Pain,130,330,< 120 mg/dl,Normal,169,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+57,Male,No Pain,150,276,< 120 mg/dl,Normal,112,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+49,Female,No Pain,130,269,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+56,Male,Typical Angina,130,221,< 120 mg/dl,Normal,163,No Angina,0,Up Slope,0,Normal,Heart Disease
+58,Female,Non-Anginal Pain,150,283,> 120 mg/dl,Normal,162,No Angina,1,Up Slope,0,Reversible Defect,Heart Disease
+63,Male,No Pain,140,187,< 120 mg/dl,Normal,144,Angina,4,Up Slope,2,Normal,No Heart Disease
+57,Male,No Pain,110,335,< 120 mg/dl,ST-T Change,143,Angina,3,Flat Slope,1,Normal,No Heart Disease
+57,Male,No Pain,110,335,< 120 mg/dl,ST-T Change,143,Angina,3,Flat Slope,1,Normal,No Heart Disease
+68,Male,No Pain,144,193,> 120 mg/dl,ST-T Change,141,No Angina,3.4,Flat Slope,2,Normal,No Heart Disease
+46,Male,Typical Angina,101,197,> 120 mg/dl,ST-T Change,156,No Angina,0,Up Slope,0,Normal,Heart Disease
+71,Female,Atypical Angina,110,265,> 120 mg/dl,Normal,130,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+41,Male,Typical Angina,135,203,< 120 mg/dl,ST-T Change,132,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+45,Female,No Pain,138,236,< 120 mg/dl,Normal,152,Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+62,Female,No Pain,150,244,< 120 mg/dl,ST-T Change,154,Angina,1.4,Flat Slope,0,Reversible Defect,No Heart Disease
+65,Female,No Pain,150,225,< 120 mg/dl,Normal,114,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+48,Female,Atypical Angina,130,275,< 120 mg/dl,ST-T Change,139,No Angina,0.2,Up Slope,0,Reversible Defect,Heart Disease
+51,Male,Atypical Angina,100,222,< 120 mg/dl,ST-T Change,143,Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+61,Female,No Pain,145,307,< 120 mg/dl,Normal,146,Angina,1,Flat Slope,0,Normal,No Heart Disease
+53,Male,No Pain,123,282,< 120 mg/dl,ST-T Change,95,Angina,2,Flat Slope,2,Normal,No Heart Disease
+59,Male,Non-Anginal Pain,134,204,< 120 mg/dl,ST-T Change,162,No Angina,0.8,Up Slope,2,Reversible Defect,No Heart Disease
+34,Female,Typical Angina,118,210,< 120 mg/dl,ST-T Change,192,No Angina,0.7,Up Slope,0,Reversible Defect,Heart Disease
+44,Male,No Pain,120,169,< 120 mg/dl,ST-T Change,144,Angina,2.8,Down Slope,0,Fixed Defect,No Heart Disease
+58,Male,No Pain,146,218,< 120 mg/dl,ST-T Change,105,No Angina,2,Flat Slope,1,Normal,No Heart Disease
+64,Female,No Pain,130,303,< 120 mg/dl,ST-T Change,122,No Angina,2,Flat Slope,2,Reversible Defect,Heart Disease
+56,Male,Typical Angina,120,240,< 120 mg/dl,ST-T Change,169,No Angina,0,Down Slope,0,Reversible Defect,Heart Disease
+54,Male,Atypical Angina,150,232,< 120 mg/dl,Normal,165,No Angina,1.6,Up Slope,0,Normal,Heart Disease
+55,Male,No Pain,160,289,< 120 mg/dl,Normal,145,Angina,0.8,Flat Slope,1,Normal,No Heart Disease
+67,Male,No Pain,125,254,> 120 mg/dl,ST-T Change,163,No Angina,0.2,Flat Slope,2,Normal,No Heart Disease
+51,Male,No Pain,140,298,< 120 mg/dl,ST-T Change,122,Angina,4.2,Flat Slope,3,Normal,No Heart Disease
+62,Female,No Pain,138,294,> 120 mg/dl,ST-T Change,106,No Angina,1.9,Flat Slope,3,Reversible Defect,No Heart Disease
+62,Male,Typical Angina,120,281,< 120 mg/dl,Normal,103,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+54,Male,No Pain,110,239,< 120 mg/dl,ST-T Change,126,Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+54,Male,No Pain,110,239,< 120 mg/dl,ST-T Change,126,Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+68,Male,No Pain,144,193,> 120 mg/dl,ST-T Change,141,No Angina,3.4,Flat Slope,2,Normal,No Heart Disease
+60,Female,Atypical Angina,120,178,> 120 mg/dl,ST-T Change,96,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+61,Male,Non-Anginal Pain,134,234,< 120 mg/dl,ST-T Change,145,No Angina,2.6,Flat Slope,2,Reversible Defect,No Heart Disease
+62,Male,Typical Angina,128,208,> 120 mg/dl,Normal,140,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Typical Angina,135,203,< 120 mg/dl,ST-T Change,132,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+65,Female,No Pain,150,225,< 120 mg/dl,Normal,114,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+59,Male,Non-Anginal Pain,170,288,< 120 mg/dl,Normal,159,No Angina,0.2,Flat Slope,0,Normal,No Heart Disease
+43,Male,No Pain,115,303,< 120 mg/dl,ST-T Change,181,No Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+67,Male,No Pain,120,229,< 120 mg/dl,Normal,129,Angina,2.6,Flat Slope,2,Normal,No Heart Disease
+63,Male,Non-Anginal Pain,145,233,> 120 mg/dl,Normal,150,No Angina,2.3,Down Slope,0,Fixed Defect,Heart Disease
+63,Female,No Pain,124,197,< 120 mg/dl,ST-T Change,136,Angina,0,Flat Slope,0,Reversible Defect,No Heart Disease
+52,Male,No Pain,112,230,< 120 mg/dl,ST-T Change,160,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+58,Female,No Pain,130,197,< 120 mg/dl,ST-T Change,131,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+53,Male,No Pain,142,226,< 120 mg/dl,Normal,111,Angina,0,Up Slope,0,Normal,Heart Disease
+57,Male,No Pain,150,276,< 120 mg/dl,Normal,112,Angina,0.6,Flat Slope,1,Fixed Defect,No Heart Disease
+44,Male,Atypical Angina,130,233,< 120 mg/dl,ST-T Change,179,Angina,0.4,Up Slope,0,Reversible Defect,Heart Disease
+51,Male,Atypical Angina,94,227,< 120 mg/dl,ST-T Change,154,Angina,0,Up Slope,1,Normal,Heart Disease
+54,Female,Atypical Angina,110,214,< 120 mg/dl,ST-T Change,158,No Angina,1.6,Flat Slope,0,Reversible Defect,Heart Disease
+40,Male,No Pain,110,167,< 120 mg/dl,Normal,114,Angina,2,Flat Slope,0,Normal,No Heart Disease
+57,Male,Typical Angina,124,261,< 120 mg/dl,ST-T Change,141,No Angina,0.3,Up Slope,0,Normal,No Heart Disease
+62,Female,No Pain,140,268,< 120 mg/dl,Normal,160,No Angina,3.6,Down Slope,2,Reversible Defect,No Heart Disease
+53,Male,No Pain,140,203,> 120 mg/dl,Normal,155,Angina,3.1,Down Slope,0,Normal,No Heart Disease
+62,Male,Typical Angina,128,208,> 120 mg/dl,Normal,140,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,Atypical Angina,105,240,< 120 mg/dl,Normal,154,Angina,0.6,Flat Slope,0,Normal,Heart Disease
+70,Male,Typical Angina,156,245,< 120 mg/dl,Normal,143,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+45,Male,No Pain,115,260,< 120 mg/dl,Normal,185,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+42,Male,Non-Anginal Pain,148,244,< 120 mg/dl,Normal,178,No Angina,0.8,Up Slope,2,Reversible Defect,Heart Disease
+58,Female,No Pain,170,225,> 120 mg/dl,Normal,146,Angina,2.8,Flat Slope,2,Fixed Defect,No Heart Disease
+61,Male,No Pain,140,207,< 120 mg/dl,Normal,138,Angina,1.9,Up Slope,1,Normal,No Heart Disease
+62,Female,No Pain,140,268,< 120 mg/dl,Normal,160,No Angina,3.6,Down Slope,2,Reversible Defect,No Heart Disease
+60,Male,No Pain,130,253,< 120 mg/dl,ST-T Change,144,Angina,1.4,Up Slope,1,Normal,No Heart Disease
+54,Male,No Pain,140,239,< 120 mg/dl,ST-T Change,160,No Angina,1.2,Up Slope,0,Reversible Defect,Heart Disease
+61,Male,No Pain,138,166,< 120 mg/dl,Normal,125,Angina,3.6,Flat Slope,1,Reversible Defect,No Heart Disease
+63,Female,Atypical Angina,135,252,< 120 mg/dl,Normal,172,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+42,Male,Atypical Angina,130,180,< 120 mg/dl,ST-T Change,150,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+57,Male,Atypical Angina,128,229,< 120 mg/dl,Normal,150,No Angina,0.4,Flat Slope,1,Normal,No Heart Disease
+44,Male,Atypical Angina,130,233,< 120 mg/dl,ST-T Change,179,Angina,0.4,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,No Pain,124,266,< 120 mg/dl,Normal,109,Angina,2.2,Flat Slope,1,Normal,No Heart Disease
+51,Male,Atypical Angina,100,222,< 120 mg/dl,ST-T Change,143,Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+58,Male,Typical Angina,125,220,< 120 mg/dl,ST-T Change,144,No Angina,0.4,Flat Slope,4,Normal,Heart Disease
+68,Male,Atypical Angina,118,277,< 120 mg/dl,ST-T Change,151,No Angina,1,Up Slope,1,Normal,Heart Disease
+55,Male,No Pain,140,217,< 120 mg/dl,ST-T Change,111,Angina,5.6,Down Slope,0,Normal,No Heart Disease
+42,Male,No Pain,136,315,< 120 mg/dl,ST-T Change,125,Angina,1.8,Flat Slope,0,Fixed Defect,No Heart Disease
+49,Male,Atypical Angina,118,149,< 120 mg/dl,Normal,126,No Angina,0.8,Up Slope,3,Reversible Defect,No Heart Disease
+53,Female,No Pain,138,234,< 120 mg/dl,Normal,160,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,Atypical Angina,172,199,> 120 mg/dl,ST-T Change,162,No Angina,0.5,Up Slope,0,Normal,Heart Disease
+51,Male,Non-Anginal Pain,125,213,< 120 mg/dl,Normal,125,Angina,1.4,Up Slope,1,Reversible Defect,Heart Disease
+51,Male,No Pain,140,261,< 120 mg/dl,Normal,186,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+70,Male,No Pain,145,174,< 120 mg/dl,ST-T Change,125,Angina,2.6,Down Slope,0,Normal,No Heart Disease
+35,Female,No Pain,138,183,< 120 mg/dl,ST-T Change,182,No Angina,1.4,Up Slope,0,Reversible Defect,Heart Disease
+58,Male,Atypical Angina,112,230,< 120 mg/dl,Normal,165,No Angina,2.5,Flat Slope,1,Normal,No Heart Disease
+59,Male,Non-Anginal Pain,160,273,< 120 mg/dl,Normal,125,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+60,Male,No Pain,140,293,< 120 mg/dl,Normal,170,No Angina,1.2,Flat Slope,2,Normal,No Heart Disease
+56,Male,No Pain,132,184,< 120 mg/dl,Normal,105,Angina,2.1,Flat Slope,1,Fixed Defect,No Heart Disease
+35,Female,No Pain,138,183,< 120 mg/dl,ST-T Change,182,No Angina,1.4,Up Slope,0,Reversible Defect,Heart Disease
+61,Male,No Pain,138,166,< 120 mg/dl,Normal,125,Angina,3.6,Flat Slope,1,Reversible Defect,No Heart Disease
+58,Female,Non-Anginal Pain,150,283,> 120 mg/dl,Normal,162,No Angina,1,Up Slope,0,Reversible Defect,Heart Disease
+52,Male,No Pain,128,255,< 120 mg/dl,ST-T Change,161,Angina,0,Up Slope,1,Normal,No Heart Disease
+58,Male,Typical Angina,120,284,< 120 mg/dl,Normal,160,No Angina,1.8,Flat Slope,0,Reversible Defect,No Heart Disease
+37,Male,Atypical Angina,130,250,< 120 mg/dl,ST-T Change,187,No Angina,3.5,Down Slope,0,Reversible Defect,Heart Disease
+52,Male,No Pain,128,255,< 120 mg/dl,ST-T Change,161,Angina,0,Up Slope,1,Normal,No Heart Disease
+67,Male,No Pain,120,229,< 120 mg/dl,Normal,129,Angina,2.6,Flat Slope,2,Normal,No Heart Disease
+65,Male,Non-Anginal Pain,138,282,> 120 mg/dl,Normal,174,No Angina,1.4,Flat Slope,1,Reversible Defect,No Heart Disease
+46,Male,Typical Angina,101,197,> 120 mg/dl,ST-T Change,156,No Angina,0,Up Slope,0,Normal,Heart Disease
+68,Female,Atypical Angina,120,211,< 120 mg/dl,Normal,115,No Angina,1.5,Flat Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,115,303,< 120 mg/dl,ST-T Change,181,No Angina,1.2,Flat Slope,0,Reversible Defect,Heart Disease
+68,Female,Atypical Angina,120,211,< 120 mg/dl,Normal,115,No Angina,1.5,Flat Slope,0,Reversible Defect,Heart Disease
+51,Male,No Pain,140,299,< 120 mg/dl,ST-T Change,173,Angina,1.6,Up Slope,0,Normal,No Heart Disease
+52,Male,No Pain,112,230,< 120 mg/dl,ST-T Change,160,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+64,Male,Atypical Angina,140,335,< 120 mg/dl,ST-T Change,158,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+59,Male,Non-Anginal Pain,170,288,< 120 mg/dl,Normal,159,No Angina,0.2,Flat Slope,0,Normal,No Heart Disease
+52,Male,No Pain,125,212,< 120 mg/dl,ST-T Change,168,No Angina,1,Up Slope,2,Normal,No Heart Disease
+59,Male,Non-Anginal Pain,160,273,< 120 mg/dl,Normal,125,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+60,Female,Non-Anginal Pain,150,240,< 120 mg/dl,ST-T Change,171,No Angina,0.9,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Atypical Angina,112,250,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+41,Male,Typical Angina,110,235,< 120 mg/dl,ST-T Change,153,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+56,Male,Typical Angina,120,240,< 120 mg/dl,ST-T Change,169,No Angina,0,Down Slope,0,Reversible Defect,Heart Disease
+56,Male,Typical Angina,120,236,< 120 mg/dl,ST-T Change,178,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+48,Female,Atypical Angina,130,275,< 120 mg/dl,ST-T Change,139,No Angina,0.2,Up Slope,0,Reversible Defect,Heart Disease
+39,Male,Atypical Angina,140,321,< 120 mg/dl,Normal,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+64,Male,Non-Anginal Pain,170,227,< 120 mg/dl,Normal,155,No Angina,0.6,Flat Slope,0,Normal,Heart Disease
+57,Male,No Pain,140,192,< 120 mg/dl,ST-T Change,148,No Angina,0.4,Flat Slope,0,Fixed Defect,Heart Disease
+59,Male,Non-Anginal Pain,160,273,< 120 mg/dl,Normal,125,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+60,Male,No Pain,130,206,< 120 mg/dl,Normal,132,Angina,2.4,Flat Slope,2,Normal,No Heart Disease
+61,Male,No Pain,140,207,< 120 mg/dl,Normal,138,Angina,1.9,Up Slope,1,Normal,No Heart Disease
+43,Female,Atypical Angina,122,213,< 120 mg/dl,ST-T Change,165,No Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+54,Male,No Pain,120,188,< 120 mg/dl,ST-T Change,113,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+59,Male,No Pain,138,271,< 120 mg/dl,Normal,182,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+57,Male,No Pain,132,207,< 120 mg/dl,ST-T Change,168,Angina,0,Up Slope,0,Normal,Heart Disease
+57,Male,Typical Angina,154,232,< 120 mg/dl,Normal,164,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+57,Male,No Pain,130,131,< 120 mg/dl,ST-T Change,115,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+48,Male,No Pain,124,274,< 120 mg/dl,Normal,166,No Angina,0.5,Flat Slope,0,Normal,No Heart Disease
+70,Male,No Pain,145,174,< 120 mg/dl,ST-T Change,125,Angina,2.6,Down Slope,0,Normal,No Heart Disease
+57,Male,No Pain,165,289,> 120 mg/dl,Normal,124,No Angina,1,Flat Slope,3,Normal,No Heart Disease
+61,Male,No Pain,120,260,< 120 mg/dl,ST-T Change,140,Angina,3.6,Flat Slope,1,Normal,No Heart Disease
+57,Male,No Pain,110,201,< 120 mg/dl,ST-T Change,126,Angina,1.5,Flat Slope,0,Fixed Defect,Heart Disease
+60,Female,No Pain,150,258,< 120 mg/dl,Normal,157,No Angina,2.6,Flat Slope,2,Normal,No Heart Disease
+63,Female,No Pain,150,407,< 120 mg/dl,Normal,154,No Angina,4,Flat Slope,3,Normal,No Heart Disease
+55,Female,No Pain,128,205,< 120 mg/dl,Left Ventricular Hypertrophy,130,Angina,2,Flat Slope,1,Normal,No Heart Disease
+64,Female,No Pain,180,325,< 120 mg/dl,ST-T Change,154,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,No Pain,110,239,< 120 mg/dl,ST-T Change,126,Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+52,Male,No Pain,128,204,> 120 mg/dl,ST-T Change,156,Angina,1,Flat Slope,0,Unknown,No Heart Disease
+51,Male,No Pain,140,299,< 120 mg/dl,ST-T Change,173,Angina,1.6,Up Slope,0,Normal,No Heart Disease
+62,Female,Atypical Angina,130,263,< 120 mg/dl,ST-T Change,97,No Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+59,Male,Non-Anginal Pain,178,270,< 120 mg/dl,Normal,145,No Angina,4.2,Down Slope,0,Normal,Heart Disease
+52,Male,Typical Angina,134,201,< 120 mg/dl,ST-T Change,158,No Angina,0.8,Up Slope,1,Reversible Defect,Heart Disease
+42,Female,No Pain,102,265,< 120 mg/dl,Normal,122,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+59,Male,No Pain,135,234,< 120 mg/dl,ST-T Change,161,No Angina,0.5,Flat Slope,0,Normal,Heart Disease
+61,Male,Non-Anginal Pain,134,234,< 120 mg/dl,ST-T Change,145,No Angina,2.6,Flat Slope,2,Reversible Defect,No Heart Disease
+42,Female,No Pain,102,265,< 120 mg/dl,Normal,122,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+62,Female,No Pain,140,268,< 120 mg/dl,Normal,160,No Angina,3.6,Down Slope,2,Reversible Defect,No Heart Disease
+59,Male,Atypical Angina,126,218,> 120 mg/dl,ST-T Change,134,No Angina,2.2,Flat Slope,1,Fixed Defect,No Heart Disease
+55,Male,Typical Angina,130,262,< 120 mg/dl,ST-T Change,155,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+64,Male,No Pain,120,246,< 120 mg/dl,Normal,96,Angina,2.2,Down Slope,1,Reversible Defect,No Heart Disease
+42,Male,No Pain,140,226,< 120 mg/dl,ST-T Change,178,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+50,Female,Typical Angina,120,244,< 120 mg/dl,ST-T Change,162,No Angina,1.1,Up Slope,0,Reversible Defect,Heart Disease
+62,Male,No Pain,120,267,< 120 mg/dl,ST-T Change,99,Angina,1.8,Flat Slope,2,Normal,No Heart Disease
+50,Male,No Pain,144,200,< 120 mg/dl,Normal,126,Angina,0.9,Flat Slope,0,Normal,No Heart Disease
+50,Male,Atypical Angina,140,233,< 120 mg/dl,ST-T Change,163,No Angina,0.6,Flat Slope,1,Normal,No Heart Disease
+58,Female,Typical Angina,136,319,> 120 mg/dl,Normal,152,No Angina,0,Up Slope,2,Reversible Defect,No Heart Disease
+35,Male,No Pain,120,198,< 120 mg/dl,ST-T Change,130,Angina,1.6,Flat Slope,0,Normal,No Heart Disease
+45,Male,No Pain,104,208,< 120 mg/dl,Normal,148,Angina,3,Flat Slope,0,Reversible Defect,Heart Disease
+66,Male,No Pain,112,212,< 120 mg/dl,Normal,132,Angina,0.1,Up Slope,1,Reversible Defect,No Heart Disease
+46,Male,No Pain,120,249,< 120 mg/dl,Normal,144,No Angina,0.8,Up Slope,0,Normal,No Heart Disease
+65,Male,No Pain,135,254,< 120 mg/dl,Normal,127,No Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+47,Male,Atypical Angina,130,253,< 120 mg/dl,ST-T Change,179,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,Non-Anginal Pain,134,204,< 120 mg/dl,ST-T Change,162,No Angina,0.8,Up Slope,2,Reversible Defect,No Heart Disease
+38,Male,Non-Anginal Pain,120,231,< 120 mg/dl,ST-T Change,182,Angina,3.8,Flat Slope,0,Normal,No Heart Disease
+39,Male,No Pain,118,219,< 120 mg/dl,ST-T Change,140,No Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+58,Male,No Pain,146,218,< 120 mg/dl,ST-T Change,105,No Angina,2,Flat Slope,1,Normal,No Heart Disease
+44,Male,Typical Angina,120,263,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,0,Normal,Heart Disease
+54,Male,No Pain,140,239,< 120 mg/dl,ST-T Change,160,No Angina,1.2,Up Slope,0,Reversible Defect,Heart Disease
+61,Female,No Pain,130,330,< 120 mg/dl,Normal,169,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+57,Male,No Pain,130,131,< 120 mg/dl,ST-T Change,115,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+54,Male,No Pain,110,206,< 120 mg/dl,Normal,108,Angina,0,Flat Slope,1,Reversible Defect,No Heart Disease
+42,Male,Atypical Angina,120,240,> 120 mg/dl,ST-T Change,194,No Angina,0.8,Down Slope,0,Normal,Heart Disease
+54,Male,No Pain,124,266,< 120 mg/dl,Normal,109,Angina,2.2,Flat Slope,1,Normal,No Heart Disease
+60,Male,No Pain,130,206,< 120 mg/dl,Normal,132,Angina,2.4,Flat Slope,2,Normal,No Heart Disease
+65,Male,No Pain,135,254,< 120 mg/dl,Normal,127,No Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+40,Male,No Pain,152,223,< 120 mg/dl,ST-T Change,181,No Angina,0,Up Slope,0,Normal,No Heart Disease
+51,Female,Atypical Angina,140,308,< 120 mg/dl,Normal,142,No Angina,1.5,Up Slope,1,Reversible Defect,Heart Disease
+38,Male,Non-Anginal Pain,120,231,< 120 mg/dl,ST-T Change,182,Angina,3.8,Flat Slope,0,Normal,No Heart Disease
+42,Male,Atypical Angina,130,180,< 120 mg/dl,ST-T Change,150,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+56,Male,Typical Angina,120,240,< 120 mg/dl,ST-T Change,169,No Angina,0,Down Slope,0,Reversible Defect,Heart Disease
+43,Male,Atypical Angina,130,315,< 120 mg/dl,ST-T Change,162,No Angina,1.9,Up Slope,1,Reversible Defect,Heart Disease
+64,Male,Atypical Angina,140,335,< 120 mg/dl,ST-T Change,158,No Angina,0,Up Slope,0,Reversible Defect,No Heart Disease
+53,Male,No Pain,142,226,< 120 mg/dl,Normal,111,Angina,0,Up Slope,0,Normal,Heart Disease
+49,Female,Typical Angina,134,271,< 120 mg/dl,ST-T Change,162,No Angina,0,Flat Slope,0,Reversible Defect,Heart Disease
+57,Female,No Pain,140,241,< 120 mg/dl,ST-T Change,123,Angina,0.2,Flat Slope,0,Normal,No Heart Disease
+52,Female,Atypical Angina,136,196,< 120 mg/dl,Normal,169,No Angina,0.1,Flat Slope,0,Reversible Defect,Heart Disease
+69,Female,Non-Anginal Pain,140,239,< 120 mg/dl,ST-T Change,151,No Angina,1.8,Up Slope,2,Reversible Defect,Heart Disease
+65,Male,No Pain,120,177,< 120 mg/dl,ST-T Change,140,No Angina,0.4,Up Slope,0,Normal,Heart Disease
+66,Female,No Pain,178,228,> 120 mg/dl,ST-T Change,165,Angina,1,Flat Slope,2,Normal,No Heart Disease
+56,Male,Non-Anginal Pain,120,193,< 120 mg/dl,Normal,162,No Angina,1.9,Flat Slope,0,Normal,Heart Disease
+67,Female,Atypical Angina,152,277,< 120 mg/dl,ST-T Change,172,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+54,Female,Atypical Angina,160,201,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,1,Reversible Defect,Heart Disease
+70,Male,No Pain,145,174,< 120 mg/dl,ST-T Change,125,Angina,2.6,Down Slope,0,Normal,No Heart Disease
+57,Male,No Pain,132,207,< 120 mg/dl,ST-T Change,168,Angina,0,Up Slope,0,Normal,Heart Disease
+67,Male,No Pain,160,286,< 120 mg/dl,Normal,108,Angina,1.5,Flat Slope,3,Reversible Defect,No Heart Disease
+62,Female,Atypical Angina,130,263,< 120 mg/dl,ST-T Change,97,No Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+54,Female,Atypical Angina,135,304,> 120 mg/dl,ST-T Change,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+45,Female,No Pain,138,236,< 120 mg/dl,Normal,152,Angina,0.2,Flat Slope,0,Reversible Defect,Heart Disease
+53,Female,No Pain,130,264,< 120 mg/dl,Normal,143,No Angina,0.4,Flat Slope,0,Reversible Defect,Heart Disease
+62,Male,Atypical Angina,130,231,< 120 mg/dl,ST-T Change,146,No Angina,1.8,Flat Slope,3,Normal,Heart Disease
+49,Female,No Pain,130,269,< 120 mg/dl,ST-T Change,163,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+50,Male,Atypical Angina,140,233,< 120 mg/dl,ST-T Change,163,No Angina,0.6,Flat Slope,1,Normal,No Heart Disease
+65,Female,Atypical Angina,140,417,> 120 mg/dl,Normal,157,No Angina,0.8,Up Slope,1,Reversible Defect,Heart Disease
+69,Female,Non-Anginal Pain,140,239,< 120 mg/dl,ST-T Change,151,No Angina,1.8,Up Slope,2,Reversible Defect,Heart Disease
+52,Female,Atypical Angina,136,196,< 120 mg/dl,Normal,169,No Angina,0.1,Flat Slope,0,Reversible Defect,Heart Disease
+58,Female,No Pain,100,248,< 120 mg/dl,Normal,122,No Angina,1,Flat Slope,0,Reversible Defect,Heart Disease
+52,Male,No Pain,108,233,> 120 mg/dl,ST-T Change,147,No Angina,0.1,Up Slope,3,Normal,Heart Disease
+57,Female,No Pain,140,241,< 120 mg/dl,ST-T Change,123,Angina,0.2,Flat Slope,0,Normal,No Heart Disease
+44,Female,Atypical Angina,108,141,< 120 mg/dl,ST-T Change,175,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+76,Female,Atypical Angina,140,197,< 120 mg/dl,Left Ventricular Hypertrophy,116,No Angina,1.1,Flat Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,128,259,< 120 mg/dl,Normal,130,Angina,3,Flat Slope,2,Normal,No Heart Disease
+60,Female,Atypical Angina,120,178,> 120 mg/dl,ST-T Change,96,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+53,Male,No Pain,140,203,> 120 mg/dl,Normal,155,Angina,3.1,Down Slope,0,Normal,No Heart Disease
+52,Male,Typical Angina,120,325,< 120 mg/dl,ST-T Change,172,No Angina,0.2,Up Slope,0,Reversible Defect,Heart Disease
+38,Male,Atypical Angina,138,175,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,4,Reversible Defect,Heart Disease
+52,Male,Atypical Angina,172,199,> 120 mg/dl,ST-T Change,162,No Angina,0.5,Up Slope,0,Normal,Heart Disease
+52,Male,Non-Anginal Pain,118,186,< 120 mg/dl,Normal,190,No Angina,0,Flat Slope,0,Fixed Defect,Heart Disease
+51,Male,Atypical Angina,125,245,> 120 mg/dl,Normal,166,No Angina,2.4,Flat Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,110,211,< 120 mg/dl,ST-T Change,161,No Angina,0,Up Slope,0,Normal,Heart Disease
+39,Male,No Pain,118,219,< 120 mg/dl,ST-T Change,140,No Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+63,Female,No Pain,108,269,< 120 mg/dl,ST-T Change,169,Angina,1.8,Flat Slope,2,Reversible Defect,No Heart Disease
+52,Male,Typical Angina,128,205,> 120 mg/dl,ST-T Change,184,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+44,Male,No Pain,110,197,< 120 mg/dl,Normal,177,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+45,Male,No Pain,142,309,< 120 mg/dl,Normal,147,Angina,0,Flat Slope,3,Normal,No Heart Disease
+57,Male,No Pain,140,192,< 120 mg/dl,ST-T Change,148,No Angina,0.4,Flat Slope,0,Fixed Defect,Heart Disease
+39,Male,No Pain,118,219,< 120 mg/dl,ST-T Change,140,No Angina,1.2,Flat Slope,0,Normal,No Heart Disease
+67,Female,No Pain,106,223,< 120 mg/dl,ST-T Change,142,No Angina,0.3,Up Slope,2,Reversible Defect,Heart Disease
+64,Male,No Pain,128,263,< 120 mg/dl,ST-T Change,105,Angina,0.2,Flat Slope,1,Normal,Heart Disease
+59,Male,No Pain,135,234,< 120 mg/dl,ST-T Change,161,No Angina,0.5,Flat Slope,0,Normal,Heart Disease
+62,Male,Atypical Angina,130,231,< 120 mg/dl,ST-T Change,146,No Angina,1.8,Flat Slope,3,Normal,Heart Disease
+55,Female,No Pain,180,327,< 120 mg/dl,Left Ventricular Hypertrophy,117,Angina,3.4,Flat Slope,0,Reversible Defect,No Heart Disease
+57,Male,Typical Angina,154,232,< 120 mg/dl,Normal,164,No Angina,0,Up Slope,1,Reversible Defect,No Heart Disease
+60,Male,No Pain,140,293,< 120 mg/dl,Normal,170,No Angina,1.2,Flat Slope,2,Normal,No Heart Disease
+71,Female,Typical Angina,160,302,< 120 mg/dl,ST-T Change,162,No Angina,0.4,Up Slope,2,Reversible Defect,Heart Disease
+56,Male,Typical Angina,120,236,< 120 mg/dl,ST-T Change,178,No Angina,0.8,Up Slope,0,Reversible Defect,Heart Disease
+60,Male,No Pain,117,230,> 120 mg/dl,ST-T Change,160,Angina,1.4,Up Slope,2,Normal,No Heart Disease
+50,Female,No Pain,110,254,< 120 mg/dl,Normal,159,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+43,Male,No Pain,132,247,> 120 mg/dl,Normal,143,Angina,0.1,Flat Slope,4,Normal,No Heart Disease
+59,Male,No Pain,110,239,< 120 mg/dl,Normal,142,Angina,1.2,Flat Slope,1,Normal,No Heart Disease
+44,Male,Typical Angina,120,263,< 120 mg/dl,ST-T Change,173,No Angina,0,Up Slope,0,Normal,Heart Disease
+56,Female,No Pain,134,409,< 120 mg/dl,Normal,150,Angina,1.9,Flat Slope,2,Normal,No Heart Disease
+54,Male,No Pain,120,188,< 120 mg/dl,ST-T Change,113,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
+42,Male,No Pain,136,315,< 120 mg/dl,ST-T Change,125,Angina,1.8,Flat Slope,0,Fixed Defect,No Heart Disease
+67,Male,No Pain,125,254,> 120 mg/dl,ST-T Change,163,No Angina,0.2,Flat Slope,2,Normal,No Heart Disease
+64,Male,No Pain,145,212,< 120 mg/dl,Normal,132,No Angina,2,Flat Slope,2,Fixed Defect,No Heart Disease
+42,Male,No Pain,140,226,< 120 mg/dl,ST-T Change,178,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+66,Male,No Pain,112,212,< 120 mg/dl,Normal,132,Angina,0.1,Up Slope,1,Reversible Defect,No Heart Disease
+52,Male,No Pain,108,233,> 120 mg/dl,ST-T Change,147,No Angina,0.1,Up Slope,3,Normal,Heart Disease
+51,Female,Atypical Angina,140,308,< 120 mg/dl,Normal,142,No Angina,1.5,Up Slope,1,Reversible Defect,Heart Disease
+55,Female,No Pain,128,205,< 120 mg/dl,Left Ventricular Hypertrophy,130,Angina,2,Flat Slope,1,Normal,No Heart Disease
+58,Male,Atypical Angina,140,211,> 120 mg/dl,Normal,165,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+56,Male,Non-Anginal Pain,120,193,< 120 mg/dl,Normal,162,No Angina,1.9,Flat Slope,0,Normal,Heart Disease
+42,Male,Typical Angina,120,295,< 120 mg/dl,ST-T Change,162,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+40,Male,No Pain,152,223,< 120 mg/dl,ST-T Change,181,No Angina,0,Up Slope,0,Normal,No Heart Disease
+51,Male,No Pain,140,299,< 120 mg/dl,ST-T Change,173,Angina,1.6,Up Slope,0,Normal,No Heart Disease
+45,Male,Typical Angina,128,308,< 120 mg/dl,Normal,170,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+48,Male,Typical Angina,110,229,< 120 mg/dl,ST-T Change,168,No Angina,1,Down Slope,0,Normal,No Heart Disease
+58,Male,No Pain,114,318,< 120 mg/dl,Left Ventricular Hypertrophy,140,No Angina,4.4,Down Slope,3,Fixed Defect,No Heart Disease
+44,Female,Atypical Angina,108,141,< 120 mg/dl,ST-T Change,175,No Angina,0.6,Flat Slope,0,Reversible Defect,Heart Disease
+58,Male,No Pain,128,216,< 120 mg/dl,Normal,131,Angina,2.2,Flat Slope,3,Normal,No Heart Disease
+65,Male,Non-Anginal Pain,138,282,> 120 mg/dl,Normal,174,No Angina,1.4,Flat Slope,1,Reversible Defect,No Heart Disease
+53,Male,No Pain,123,282,< 120 mg/dl,ST-T Change,95,Angina,2,Flat Slope,2,Normal,No Heart Disease
+41,Male,No Pain,110,172,< 120 mg/dl,Normal,158,No Angina,0,Up Slope,0,Normal,No Heart Disease
+47,Male,No Pain,112,204,< 120 mg/dl,ST-T Change,143,No Angina,0.1,Up Slope,0,Reversible Defect,Heart Disease
+59,Male,Typical Angina,140,221,< 120 mg/dl,ST-T Change,164,Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+60,Male,No Pain,125,258,< 120 mg/dl,Normal,141,Angina,2.8,Flat Slope,1,Normal,No Heart Disease
+47,Male,No Pain,110,275,< 120 mg/dl,Normal,118,Angina,1,Flat Slope,1,Reversible Defect,No Heart Disease
+50,Female,No Pain,110,254,< 120 mg/dl,Normal,159,No Angina,0,Up Slope,0,Reversible Defect,Heart Disease
+54,Male,No Pain,120,188,< 120 mg/dl,ST-T Change,113,No Angina,1.4,Flat Slope,1,Normal,No Heart Disease
